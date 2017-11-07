@@ -1,0 +1,1769 @@
+[
+{
+"id": 497,
+"areaID": "171",
+"dataValue": "28.0",
+"longitude": "78.4462414000",
+"latitude": "17.3738116000",
+"images": "resources//images//instances//uuid481f7604-48da-4aa7-be26-6747aff15c5e//1486454014122.jpg,resources//images//instances//uuid481f7604-48da-4aa7-be26-6747aff15c5e//1486454037007.jpg,resources//images//instances//uuid481f7604-48da-4aa7-be26-6747aff15c5e//1486454043731.jpg,resources//images//instances//uuid481f7604-48da-4aa7-be26-6747aff15c5e//1486454063310.jpg,resources//images//instances//uuid481f7604-48da-4aa7-be26-6747aff15c5e//1486454088772.jpg,resources//images//instances//uuid481f7604-48da-4aa7-be26-6747aff15c5e//1486454108770.jpg",
+"title": "Panipura",
+"showWindow": false,
+"icon": "resources/images/pushpins/uphc-red.png",
+"dateOfVisit": "2017-02-07 13:27:35.0",
+"beforeImages": [
+"resources//images//instances//uuid481f7604-48da-4aa7-be26-6747aff15c5e//1486454014122.jpg",
+"resources//images//instances//uuid481f7604-48da-4aa7-be26-6747aff15c5e//1486454037007.jpg",
+"resources//images//instances//uuid481f7604-48da-4aa7-be26-6747aff15c5e//1486454043731.jpg",
+"resources//images//instances//uuid481f7604-48da-4aa7-be26-6747aff15c5e//1486454063310.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 498,
+"areaID": "178",
+"dataValue": "29.8",
+"longitude": "78.4590760000",
+"latitude": "17.3652338000",
+"images": "resources//images//instances//uuidf77d1855-6f39-4098-ab81-bbf58f0a661e//1486460514719.jpg,resources//images//instances//uuidf77d1855-6f39-4098-ab81-bbf58f0a661e//1486460611951.jpg,resources//images//instances//uuidf77d1855-6f39-4098-ab81-bbf58f0a661e//1486460634864.jpg,resources//images//instances//uuidf77d1855-6f39-4098-ab81-bbf58f0a661e//1486460665104.jpg,resources//images//instances//uuidf77d1855-6f39-4098-ab81-bbf58f0a661e//1486460681342.jpg,resources//images//instances//uuidf77d1855-6f39-4098-ab81-bbf58f0a661e//1486460703048.jpg",
+"title": "Puranapool-I",
+"showWindow": false,
+"icon": "resources/images/pushpins/uphc-red.png",
+"dateOfVisit": "2017-02-07 15:18:26.0",
+"beforeImages": [
+"resources//images//instances//uuidf77d1855-6f39-4098-ab81-bbf58f0a661e//1486460514719.jpg",
+"resources//images//instances//uuidf77d1855-6f39-4098-ab81-bbf58f0a661e//1486460611951.jpg",
+"resources//images//instances//uuidf77d1855-6f39-4098-ab81-bbf58f0a661e//1486460634864.jpg",
+"resources//images//instances//uuidf77d1855-6f39-4098-ab81-bbf58f0a661e//1486460665104.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 499,
+"areaID": "472",
+"dataValue": "37.2",
+"longitude": "78.47398527",
+"latitude": "17.63972529",
+"images": "resources//images//instances//uuid435f7704-cd7b-486e-9346-85f92cc1abf4//IMG_5871-15_20_7.JPG,resources//images//instances//uuid435f7704-cd7b-486e-9346-85f92cc1abf4//IMG_5871-15_20_48.JPG,resources//images//instances//uuid435f7704-cd7b-486e-9346-85f92cc1abf4//IMG_5865-15_21_56.JPG,resources//images//instances//uuid435f7704-cd7b-486e-9346-85f92cc1abf4//IMG_5863-15_22_6.JPG,resources//images//instances//uuid435f7704-cd7b-486e-9346-85f92cc1abf4//IMG_5859-15_22_19.JPG,resources//images//instances//uuid435f7704-cd7b-486e-9346-85f92cc1abf4//IMG_5870-15_22_38.JPG,resources//images//instances//uuid435f7704-cd7b-486e-9346-85f92cc1abf4//IMG_5868-15_22_49.JPG,resources//images//instances//uuid435f7704-cd7b-486e-9346-85f92cc1abf4//IMG_5864-15_23_0.JPG",
+"title": "Medchal",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-02-08 14:06:13.0",
+"beforeImages": [
+"resources//images//instances//uuid435f7704-cd7b-486e-9346-85f92cc1abf4//IMG_5865-15_21_56.JPG",
+"resources//images//instances//uuid435f7704-cd7b-486e-9346-85f92cc1abf4//IMG_5863-15_22_6.JPG",
+"resources//images//instances//uuid435f7704-cd7b-486e-9346-85f92cc1abf4//IMG_5859-15_22_19.JPG",
+"resources//images//instances//uuid435f7704-cd7b-486e-9346-85f92cc1abf4//IMG_5870-15_22_38.JPG"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 500,
+"areaID": "140",
+"dataValue": "59.7",
+"longitude": "78.4037916667",
+"latitude": "17.3857200000",
+"images": "resources//images//instances//uuid604a1afa-320a-482f-9142-6b57bdd0eee0//1486542749911.jpg,resources//images//instances//uuid604a1afa-320a-482f-9142-6b57bdd0eee0//1486543063039.jpg,resources//images//instances//uuid604a1afa-320a-482f-9142-6b57bdd0eee0//1486543082992.jpg,resources//images//instances//uuid604a1afa-320a-482f-9142-6b57bdd0eee0//1486543101196.jpg,resources//images//instances//uuid604a1afa-320a-482f-9142-6b57bdd0eee0//1486543138177.jpg,resources//images//instances//uuid604a1afa-320a-482f-9142-6b57bdd0eee0//1486543154719.jpg,resources//images//instances//uuid604a1afa-320a-482f-9142-6b57bdd0eee0//1486543168364.jpg",
+"title": "Golconda",
+"showWindow": false,
+"icon": "resources/images/pushpins/ah-red.png",
+"dateOfVisit": "2017-02-08 14:19:18.0",
+"beforeImages": [
+"resources//images//instances//uuid604a1afa-320a-482f-9142-6b57bdd0eee0//1486543063039.jpg",
+"resources//images//instances//uuid604a1afa-320a-482f-9142-6b57bdd0eee0//1486543082992.jpg",
+"resources//images//instances//uuid604a1afa-320a-482f-9142-6b57bdd0eee0//1486543101196.jpg",
+"resources//images//instances//uuid604a1afa-320a-482f-9142-6b57bdd0eee0//1486543138177.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 501,
+"areaID": "477",
+"dataValue": "43.5",
+"longitude": "78.33557725",
+"latitude": "17.21854802",
+"images": "resources//images//instances//uuidefc5dea1-a8ba-42da-87d8-bd71b9242d4c//image-15_34_1.jpg,resources//images//instances//uuidefc5dea1-a8ba-42da-87d8-bd71b9242d4c//IMG_5890-15_35_27.JPG,resources//images//instances//uuidefc5dea1-a8ba-42da-87d8-bd71b9242d4c//IMG_5896-15_35_42.JPG,resources//images//instances//uuidefc5dea1-a8ba-42da-87d8-bd71b9242d4c//IMG_5888-15_35_55.JPG,resources//images//instances//uuidefc5dea1-a8ba-42da-87d8-bd71b9242d4c//IMG_5894-15_36_17.JPG,resources//images//instances//uuidefc5dea1-a8ba-42da-87d8-bd71b9242d4c//IMG_5883-15_36_34.JPG,resources//images//instances//uuidefc5dea1-a8ba-42da-87d8-bd71b9242d4c//IMG_5900-15_36_44.JPG",
+"title": "Shapurnagar",
+"showWindow": false,
+"icon": "resources/images/pushpins/24x7-red.png",
+"dateOfVisit": "2017-02-08 16:48:29.0",
+"beforeImages": [
+"resources//images//instances//uuidefc5dea1-a8ba-42da-87d8-bd71b9242d4c//IMG_5890-15_35_27.JPG",
+"resources//images//instances//uuidefc5dea1-a8ba-42da-87d8-bd71b9242d4c//IMG_5896-15_35_42.JPG",
+"resources//images//instances//uuidefc5dea1-a8ba-42da-87d8-bd71b9242d4c//IMG_5888-15_35_55.JPG",
+"resources//images//instances//uuidefc5dea1-a8ba-42da-87d8-bd71b9242d4c//IMG_5894-15_36_17.JPG"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 502,
+"areaID": "601",
+"dataValue": "39.7",
+"longitude": "78.01453",
+"latitude": "18.771763",
+"images": "resources//images//instances//uuid06c8ac75-5e2f-4794-bbe9-104ac3693fc9//1486546427894.jpg,resources//images//instances//uuid06c8ac75-5e2f-4794-bbe9-104ac3693fc9//1486546482532.jpg,resources//images//instances//uuid06c8ac75-5e2f-4794-bbe9-104ac3693fc9//1486546524971.jpg,resources//images//instances//uuid06c8ac75-5e2f-4794-bbe9-104ac3693fc9//1486546546251.jpg",
+"title": "Navipet",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-02-08 17:17:53.0",
+"beforeImages": [
+"resources//images//instances//uuid06c8ac75-5e2f-4794-bbe9-104ac3693fc9//1486546427894.jpg",
+"resources//images//instances//uuid06c8ac75-5e2f-4794-bbe9-104ac3693fc9//1486546482532.jpg",
+"resources//images//instances//uuid06c8ac75-5e2f-4794-bbe9-104ac3693fc9//1486546524971.jpg",
+"resources//images//instances//uuid06c8ac75-5e2f-4794-bbe9-104ac3693fc9//1486546546251.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 503,
+"areaID": "876",
+"dataValue": "39.7",
+"longitude": "78.377594",
+"latitude": "17.9591844",
+"images": "resources//images//instances//uuid6b456d79-7820-4fb7-974d-c505e57d161a//image-13_53_10.jpg,resources//images//instances//uuid6b456d79-7820-4fb7-974d-c505e57d161a//image-13_53_56.jpg,resources//images//instances//uuid6b456d79-7820-4fb7-974d-c505e57d161a//IMG_5932-13_55_45.JPG,resources//images//instances//uuid6b456d79-7820-4fb7-974d-c505e57d161a//IMG_5940-13_56_25.JPG,resources//images//instances//uuid6b456d79-7820-4fb7-974d-c505e57d161a//IMG_5931-13_56_40.JPG,resources//images//instances//uuid6b456d79-7820-4fb7-974d-c505e57d161a//IMG_5931-13_58_15.JPG,resources//images//instances//uuid6b456d79-7820-4fb7-974d-c505e57d161a//IMG_5939-13_58_41.JPG,resources//images//instances//uuid6b456d79-7820-4fb7-974d-c505e57d161a//IMG_5945-13_58_51.JPG",
+"title": "Yeldurthy",
+"showWindow": false,
+"icon": "resources/images/pushpins/24x7-red.png",
+"dateOfVisit": "2017-02-10 15:48:15.0",
+"beforeImages": [
+"resources//images//instances//uuid6b456d79-7820-4fb7-974d-c505e57d161a//IMG_5932-13_55_45.JPG",
+"resources//images//instances//uuid6b456d79-7820-4fb7-974d-c505e57d161a//IMG_5940-13_56_25.JPG",
+"resources//images//instances//uuid6b456d79-7820-4fb7-974d-c505e57d161a//IMG_5931-13_56_40.JPG",
+"resources//images//instances//uuid6b456d79-7820-4fb7-974d-c505e57d161a//IMG_5931-13_58_15.JPG"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 504,
+"areaID": "727",
+"dataValue": "33.3",
+"longitude": "78.6632883333",
+"latitude": "18.1712133333",
+"images": "resources//images//instances//uuid300080e7-0a42-413a-80a4-8adc23d3bd79//1486722659972.jpg,resources//images//instances//uuid300080e7-0a42-413a-80a4-8adc23d3bd79//1486722694755.jpg,resources//images//instances//uuid300080e7-0a42-413a-80a4-8adc23d3bd79//1486722734477.jpg,resources//images//instances//uuid300080e7-0a42-413a-80a4-8adc23d3bd79//1486722753762.jpg,resources//images//instances//uuid300080e7-0a42-413a-80a4-8adc23d3bd79//1486722795183.jpg,resources//images//instances//uuid300080e7-0a42-413a-80a4-8adc23d3bd79//1486722844958.jpg",
+"title": "Dubbak",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-02-10 16:21:10.0",
+"beforeImages": [
+"resources//images//instances//uuid300080e7-0a42-413a-80a4-8adc23d3bd79//1486722659972.jpg",
+"resources//images//instances//uuid300080e7-0a42-413a-80a4-8adc23d3bd79//1486722694755.jpg",
+"resources//images//instances//uuid300080e7-0a42-413a-80a4-8adc23d3bd79//1486722734477.jpg",
+"resources//images//instances//uuid300080e7-0a42-413a-80a4-8adc23d3bd79//1486722753762.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 505,
+"areaID": "302",
+"dataValue": "33.1",
+"longitude": "79.1686546047",
+"latitude": "18.5771549689",
+"images": "resources//images//instances//uuidfd7c5215-7f05-4ad1-b44d-f6532e6c9d23//1486443853549.jpg,resources//images//instances//uuidfd7c5215-7f05-4ad1-b44d-f6532e6c9d23//1486443924011.jpg,resources//images//instances//uuidfd7c5215-7f05-4ad1-b44d-f6532e6c9d23//1486443986323.jpg,resources//images//instances//uuidfd7c5215-7f05-4ad1-b44d-f6532e6c9d23//1486444004132.jpg,resources//images//instances//uuidfd7c5215-7f05-4ad1-b44d-f6532e6c9d23//1486444018546.jpg,resources//images//instances//uuidfd7c5215-7f05-4ad1-b44d-f6532e6c9d23//1486444033188.jpg",
+"title": "Choppadandi  ",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-02-12 17:26:24.0",
+"beforeImages": [
+"resources//images//instances//uuidfd7c5215-7f05-4ad1-b44d-f6532e6c9d23//1486443853549.jpg",
+"resources//images//instances//uuidfd7c5215-7f05-4ad1-b44d-f6532e6c9d23//1486443924011.jpg",
+"resources//images//instances//uuidfd7c5215-7f05-4ad1-b44d-f6532e6c9d23//1486443986323.jpg",
+"resources//images//instances//uuidfd7c5215-7f05-4ad1-b44d-f6532e6c9d23//1486444004132.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 506,
+"areaID": "203",
+"dataValue": "45.9",
+"longitude": "79.1011443471",
+"latitude": "18.9449739890",
+"images": "resources//images//instances//uuid96008084-0cbb-4e36-80f8-eafcf7164d66//1486454659983.jpg,resources//images//instances//uuid96008084-0cbb-4e36-80f8-eafcf7164d66//1486454691163.jpg,resources//images//instances//uuid96008084-0cbb-4e36-80f8-eafcf7164d66//1486454741675.jpg,resources//images//instances//uuid96008084-0cbb-4e36-80f8-eafcf7164d66//1486454863508.jpg,resources//images//instances//uuid96008084-0cbb-4e36-80f8-eafcf7164d66//1486454891021.jpg",
+"title": "Dharmapuri ",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-02-12 17:28:31.0",
+"beforeImages": [
+"resources//images//instances//uuid96008084-0cbb-4e36-80f8-eafcf7164d66//1486454659983.jpg",
+"resources//images//instances//uuid96008084-0cbb-4e36-80f8-eafcf7164d66//1486454691163.jpg",
+"resources//images//instances//uuid96008084-0cbb-4e36-80f8-eafcf7164d66//1486454741675.jpg",
+"resources//images//instances//uuid96008084-0cbb-4e36-80f8-eafcf7164d66//1486454863508.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 507,
+"areaID": "217",
+"dataValue": "35.2",
+"longitude": "78.8094289050",
+"latitude": "18.9117576423",
+"images": "resources//images//instances//uuidb1265849-9c53-4c12-aae8-d59db25c95f0//1486466784032.jpg,resources//images//instances//uuidb1265849-9c53-4c12-aae8-d59db25c95f0//1486466930023.jpg,resources//images//instances//uuidb1265849-9c53-4c12-aae8-d59db25c95f0//1486466971861.jpg,resources//images//instances//uuidb1265849-9c53-4c12-aae8-d59db25c95f0//1486467025623.jpg,resources//images//instances//uuidb1265849-9c53-4c12-aae8-d59db25c95f0//1486467063993.jpg",
+"title": "Raikal",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-02-12 17:28:46.0",
+"beforeImages": [
+"resources//images//instances//uuidb1265849-9c53-4c12-aae8-d59db25c95f0//1486466784032.jpg",
+"resources//images//instances//uuidb1265849-9c53-4c12-aae8-d59db25c95f0//1486466930023.jpg",
+"resources//images//instances//uuidb1265849-9c53-4c12-aae8-d59db25c95f0//1486466971861.jpg",
+"resources//images//instances//uuidb1265849-9c53-4c12-aae8-d59db25c95f0//1486467025623.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 508,
+"areaID": "622",
+"dataValue": "41.2",
+"longitude": "79.6633595650",
+"latitude": "18.6498267209",
+"images": "resources//images//instances//uuid60d8338b-b715-43fe-a472-67d87aca08ec//1486546591331.jpg,resources//images//instances//uuid60d8338b-b715-43fe-a472-67d87aca08ec//1486546651968.jpg,resources//images//instances//uuid60d8338b-b715-43fe-a472-67d87aca08ec//1486546713441.jpg,resources//images//instances//uuid60d8338b-b715-43fe-a472-67d87aca08ec//1486546743417.jpg,resources//images//instances//uuid60d8338b-b715-43fe-a472-67d87aca08ec//1486546777455.jpg,resources//images//instances//uuid60d8338b-b715-43fe-a472-67d87aca08ec//1486546802719.jpg",
+"title": "Manthini",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-02-12 17:29:00.0",
+"beforeImages": [
+"resources//images//instances//uuid60d8338b-b715-43fe-a472-67d87aca08ec//1486546591331.jpg",
+"resources//images//instances//uuid60d8338b-b715-43fe-a472-67d87aca08ec//1486546651968.jpg",
+"resources//images//instances//uuid60d8338b-b715-43fe-a472-67d87aca08ec//1486546713441.jpg",
+"resources//images//instances//uuid60d8338b-b715-43fe-a472-67d87aca08ec//1486546743417.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 509,
+"areaID": "454",
+"dataValue": "26.7",
+"longitude": "78.4300071",
+"latitude": "18.11341487",
+"images": "resources//images//instances//uuid28128628-2786-4c6c-8ae4-8846e2abad3a//1487167915611.jpg,resources//images//instances//uuid28128628-2786-4c6c-8ae4-8846e2abad3a//1487167928962.jpg,resources//images//instances//uuid28128628-2786-4c6c-8ae4-8846e2abad3a//1487167932561.jpg",
+"title": "Ramayampet",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-02-15 20:11:52.0",
+"beforeImages": [
+"resources//images//instances//uuid28128628-2786-4c6c-8ae4-8846e2abad3a//1487167915611.jpg",
+"resources/images/Imagenotavailable.png",
+"resources/images/Imagenotavailable.png",
+"resources/images/Imagenotavailable.png"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 510,
+"areaID": "484",
+"dataValue": "39.7",
+"longitude": "78.8340173",
+"latitude": "16.37623",
+"images": "resources//images//instances//uuid74e60039-cb22-4675-ac8a-dba03d2f70fa//1487229196264.jpg,resources//images//instances//uuid74e60039-cb22-4675-ac8a-dba03d2f70fa//1487302373978.jpg,resources//images//instances//uuid74e60039-cb22-4675-ac8a-dba03d2f70fa//1487302433148.jpg,resources//images//instances//uuid74e60039-cb22-4675-ac8a-dba03d2f70fa//1487302479085.jpg,resources//images//instances//uuid74e60039-cb22-4675-ac8a-dba03d2f70fa//1487302515961.jpg,resources//images//instances//uuid74e60039-cb22-4675-ac8a-dba03d2f70fa//1487302547517.jpg,resources//images//instances//uuid74e60039-cb22-4675-ac8a-dba03d2f70fa//1487302567875.jpg,resources//images//instances//uuid74e60039-cb22-4675-ac8a-dba03d2f70fa//1487302588139.jpg",
+"title": "Ambrabad",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-02-17 09:08:03.0",
+"beforeImages": [
+"resources//images//instances//uuid74e60039-cb22-4675-ac8a-dba03d2f70fa//1487302433148.jpg",
+"resources//images//instances//uuid74e60039-cb22-4675-ac8a-dba03d2f70fa//1487302479085.jpg",
+"resources//images//instances//uuid74e60039-cb22-4675-ac8a-dba03d2f70fa//1487302515961.jpg",
+"resources//images//instances//uuid74e60039-cb22-4675-ac8a-dba03d2f70fa//1487302547517.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 511,
+"areaID": "492",
+"dataValue": "36.9",
+"longitude": "78.516389",
+"latitude": "16.269202",
+"images": "resources//images//instances//uuidcbff94c0-114b-4230-8184-6a63f1c05a92//1487308884768.jpg,resources//images//instances//uuidcbff94c0-114b-4230-8184-6a63f1c05a92//1487308969060.jpg,resources//images//instances//uuidcbff94c0-114b-4230-8184-6a63f1c05a92//1487309162725.jpg,resources//images//instances//uuidcbff94c0-114b-4230-8184-6a63f1c05a92//1487309546418.jpg,resources//images//instances//uuidcbff94c0-114b-4230-8184-6a63f1c05a92//1487309620400.jpg,resources//images//instances//uuidcbff94c0-114b-4230-8184-6a63f1c05a92//1487309640772.jpg,resources//images//instances//uuidcbff94c0-114b-4230-8184-6a63f1c05a92//1487309669597.jpg,resources//images//instances//uuidcbff94c0-114b-4230-8184-6a63f1c05a92//1487309697971.jpg",
+"title": "Lingal",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-02-17 11:05:22.0",
+"beforeImages": [
+"resources//images//instances//uuidcbff94c0-114b-4230-8184-6a63f1c05a92//1487309162725.jpg",
+"resources//images//instances//uuidcbff94c0-114b-4230-8184-6a63f1c05a92//1487309546418.jpg",
+"resources//images//instances//uuidcbff94c0-114b-4230-8184-6a63f1c05a92//1487309620400.jpg",
+"resources//images//instances//uuidcbff94c0-114b-4230-8184-6a63f1c05a92//1487309640772.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 512,
+"areaID": "610",
+"dataValue": "25.0",
+"longitude": "77.891032",
+"latitude": "18.531488",
+"images": "resources//images//instances//uuide49f93c9-6eda-4a1e-a831-2937d73cd3a3//1487318376265.jpg,resources//images//instances//uuide49f93c9-6eda-4a1e-a831-2937d73cd3a3//1487318429625.jpg,resources//images//instances//uuide49f93c9-6eda-4a1e-a831-2937d73cd3a3//1487318484137.jpg,resources//images//instances//uuide49f93c9-6eda-4a1e-a831-2937d73cd3a3//1487318505072.jpg,resources//images//instances//uuide49f93c9-6eda-4a1e-a831-2937d73cd3a3//1487318538523.jpg,resources//images//instances//uuide49f93c9-6eda-4a1e-a831-2937d73cd3a3//1487318552721.jpg,resources//images//instances//uuide49f93c9-6eda-4a1e-a831-2937d73cd3a3//1487318577245.jpg",
+"title": "Varni",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-02-17 16:13:12.0",
+"beforeImages": [
+"resources//images//instances//uuide49f93c9-6eda-4a1e-a831-2937d73cd3a3//1487318484137.jpg",
+"resources//images//instances//uuide49f93c9-6eda-4a1e-a831-2937d73cd3a3//1487318505072.jpg",
+"resources//images//instances//uuide49f93c9-6eda-4a1e-a831-2937d73cd3a3//1487318538523.jpg",
+"resources//images//instances//uuide49f93c9-6eda-4a1e-a831-2937d73cd3a3//1487318552721.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 513,
+"areaID": "715",
+"dataValue": "26.3",
+"longitude": "77.762374",
+"latitude": "17.844085",
+"images": "resources//images//instances//uuid80d1b45c-790a-464b-a15d-1eb098ab2118//1487400321355.jpg,resources//images//instances//uuid80d1b45c-790a-464b-a15d-1eb098ab2118//1487400365271.jpg,resources//images//instances//uuid80d1b45c-790a-464b-a15d-1eb098ab2118//1487400408088.jpg,resources//images//instances//uuid80d1b45c-790a-464b-a15d-1eb098ab2118//1487400420364.jpg,resources//images//instances//uuid80d1b45c-790a-464b-a15d-1eb098ab2118//1487400444700.jpg,resources//images//instances//uuid80d1b45c-790a-464b-a15d-1eb098ab2118//1487400462717.jpg,resources//images//instances//uuid80d1b45c-790a-464b-a15d-1eb098ab2118//1487400495434.jpg,resources//images//instances//uuid80d1b45c-790a-464b-a15d-1eb098ab2118//1487400571350.jpg",
+"title": "Raikode",
+"showWindow": false,
+"icon": "resources/images/pushpins/24x7-red.png",
+"dateOfVisit": "2017-02-18 13:26:25.0",
+"beforeImages": [
+"resources//images//instances//uuid80d1b45c-790a-464b-a15d-1eb098ab2118//1487400408088.jpg",
+"resources//images//instances//uuid80d1b45c-790a-464b-a15d-1eb098ab2118//1487400420364.jpg",
+"resources//images//instances//uuid80d1b45c-790a-464b-a15d-1eb098ab2118//1487400444700.jpg",
+"resources//images//instances//uuid80d1b45c-790a-464b-a15d-1eb098ab2118//1487400462717.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 514,
+"areaID": "822",
+"dataValue": "31.2",
+"longitude": "79.7401843200",
+"latitude": "18.0758367200",
+"images": "resources//images//instances//uuidbb289e72-a9f6-40c6-a07e-4502f4ea9c09//1486547757839.jpg,resources//images//instances//uuidbb289e72-a9f6-40c6-a07e-4502f4ea9c09//1486547804262.jpg,resources//images//instances//uuidbb289e72-a9f6-40c6-a07e-4502f4ea9c09//1486547820624.jpg,resources//images//instances//uuidbb289e72-a9f6-40c6-a07e-4502f4ea9c09//1486547837192.jpg,resources//images//instances//uuidbb289e72-a9f6-40c6-a07e-4502f4ea9c09//1486547859910.jpg,resources//images//instances//uuidbb289e72-a9f6-40c6-a07e-4502f4ea9c09//1486547871294.jpg",
+"title": "Athmakur",
+"showWindow": false,
+"icon": "resources/images/pushpins/24x7-red.png",
+"dateOfVisit": "2017-02-20 13:56:00.0",
+"beforeImages": [
+"resources//images//instances//uuidbb289e72-a9f6-40c6-a07e-4502f4ea9c09//1486547804262.jpg",
+"resources//images//instances//uuidbb289e72-a9f6-40c6-a07e-4502f4ea9c09//1486547820624.jpg",
+"resources//images//instances//uuidbb289e72-a9f6-40c6-a07e-4502f4ea9c09//1486547837192.jpg",
+"resources/images/Imagenotavailable.png"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 515,
+"areaID": "845",
+"dataValue": "29.6",
+"longitude": "79.5306218700",
+"latitude": "18.0570852100",
+"images": "resources//images//instances//uuid8cbf3f56-339d-4bf5-bfc5-d0a9182c3958//1486558724203.jpg,resources//images//instances//uuid8cbf3f56-339d-4bf5-bfc5-d0a9182c3958//1486558769462.jpg,resources//images//instances//uuid8cbf3f56-339d-4bf5-bfc5-d0a9182c3958//1486558781664.jpg,resources//images//instances//uuid8cbf3f56-339d-4bf5-bfc5-d0a9182c3958//1486558809064.jpg,resources//images//instances//uuid8cbf3f56-339d-4bf5-bfc5-d0a9182c3958//1486558833321.jpg,resources//images//instances//uuid8cbf3f56-339d-4bf5-bfc5-d0a9182c3958//1486558848802.jpg",
+"title": "Hasanparthy",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-02-20 13:56:52.0",
+"beforeImages": [
+"resources//images//instances//uuid8cbf3f56-339d-4bf5-bfc5-d0a9182c3958//1486558769462.jpg",
+"resources//images//instances//uuid8cbf3f56-339d-4bf5-bfc5-d0a9182c3958//1486558781664.jpg",
+"resources//images//instances//uuid8cbf3f56-339d-4bf5-bfc5-d0a9182c3958//1486558809064.jpg",
+"resources/images/Imagenotavailable.png"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 516,
+"areaID": "378",
+"dataValue": "35.6",
+"longitude": "80.1505142000",
+"latitude": "17.4298416000",
+"images": "resources//images//instances//uuid943145c4-c06d-4262-99af-d36ea0b8cef8//1486630295776.jpg,resources//images//instances//uuid943145c4-c06d-4262-99af-d36ea0b8cef8//1486630344498.jpg,resources//images//instances//uuid943145c4-c06d-4262-99af-d36ea0b8cef8//1486630358537.jpg,resources//images//instances//uuid943145c4-c06d-4262-99af-d36ea0b8cef8//1486630379639.jpg,resources//images//instances//uuid943145c4-c06d-4262-99af-d36ea0b8cef8//1486630389612.jpg,resources//images//instances//uuid943145c4-c06d-4262-99af-d36ea0b8cef8//1486630398294.jpg,resources//images//instances//uuid943145c4-c06d-4262-99af-d36ea0b8cef8//1486630406266.jpg",
+"title": "Dornakal",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-02-20 13:59:04.0",
+"beforeImages": [
+"resources//images//instances//uuid943145c4-c06d-4262-99af-d36ea0b8cef8//1486630344498.jpg",
+"resources//images//instances//uuid943145c4-c06d-4262-99af-d36ea0b8cef8//1486630358537.jpg",
+"resources//images//instances//uuid943145c4-c06d-4262-99af-d36ea0b8cef8//1486630379639.jpg",
+"resources//images//instances//uuid943145c4-c06d-4262-99af-d36ea0b8cef8//1486630389612.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 517,
+"areaID": "375",
+"dataValue": "35.9",
+"longitude": "80.1095738500",
+"latitude": "17.5804851200",
+"images": "resources//images//instances//uuid475867f9-3e07-40a6-8882-756cb92e276a//1486640369016.jpg,resources//images//instances//uuid475867f9-3e07-40a6-8882-756cb92e276a//1486640431136.jpg,resources//images//instances//uuid475867f9-3e07-40a6-8882-756cb92e276a//1486640500741.jpg,resources//images//instances//uuid475867f9-3e07-40a6-8882-756cb92e276a//1486640514441.jpg,resources//images//instances//uuid475867f9-3e07-40a6-8882-756cb92e276a//1486640551778.jpg,resources//images//instances//uuid475867f9-3e07-40a6-8882-756cb92e276a//1486640566963.jpg,resources//images//instances//uuid475867f9-3e07-40a6-8882-756cb92e276a//1486640574462.jpg",
+"title": "Bayyaram ",
+"showWindow": false,
+"icon": "resources/images/pushpins/24x7-red.png",
+"dateOfVisit": "2017-02-20 14:01:30.0",
+"beforeImages": [
+"resources//images//instances//uuid475867f9-3e07-40a6-8882-756cb92e276a//1486640431136.jpg",
+"resources//images//instances//uuid475867f9-3e07-40a6-8882-756cb92e276a//1486640500741.jpg",
+"resources//images//instances//uuid475867f9-3e07-40a6-8882-756cb92e276a//1486640514441.jpg",
+"resources//images//instances//uuid475867f9-3e07-40a6-8882-756cb92e276a//1486640551778.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 518,
+"areaID": "262",
+"dataValue": "20.6",
+"longitude": "79.9882439200",
+"latitude": "18.2380696000",
+"images": "resources//images//instances//uuid90460ad6-f7a4-4180-a307-d7ce949246b3//1486709528746.jpg,resources//images//instances//uuid90460ad6-f7a4-4180-a307-d7ce949246b3//1486709582406.jpg,resources//images//instances//uuid90460ad6-f7a4-4180-a307-d7ce949246b3//1486709599101.jpg,resources//images//instances//uuid90460ad6-f7a4-4180-a307-d7ce949246b3//1486709612135.jpg,resources//images//instances//uuid90460ad6-f7a4-4180-a307-d7ce949246b3//1486709622177.jpg,resources//images//instances//uuid90460ad6-f7a4-4180-a307-d7ce949246b3//1486709632421.jpg,resources//images//instances//uuid90460ad6-f7a4-4180-a307-d7ce949246b3//1486709639874.jpg",
+"title": "Venkatapur",
+"showWindow": false,
+"icon": "resources/images/pushpins/24x7-red.png",
+"dateOfVisit": "2017-02-20 14:03:09.0",
+"beforeImages": [
+"resources//images//instances//uuid90460ad6-f7a4-4180-a307-d7ce949246b3//1486709582406.jpg",
+"resources//images//instances//uuid90460ad6-f7a4-4180-a307-d7ce949246b3//1486709599101.jpg",
+"resources//images//instances//uuid90460ad6-f7a4-4180-a307-d7ce949246b3//1486709612135.jpg",
+"resources//images//instances//uuid90460ad6-f7a4-4180-a307-d7ce949246b3//1486709622177.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 519,
+"areaID": "248",
+"dataValue": "18.5",
+"longitude": "79.9492382800",
+"latitude": "18.6309406200",
+"images": "resources//images//instances//uuid01693ea1-cee8-404e-9638-29392253e8ee//1486719308625.jpg,resources//images//instances//uuid01693ea1-cee8-404e-9638-29392253e8ee//1486719359488.jpg,resources//images//instances//uuid01693ea1-cee8-404e-9638-29392253e8ee//1486719377247.jpg,resources//images//instances//uuid01693ea1-cee8-404e-9638-29392253e8ee//1486719400865.jpg,resources//images//instances//uuid01693ea1-cee8-404e-9638-29392253e8ee//1486719426251.jpg,resources//images//instances//uuid01693ea1-cee8-404e-9638-29392253e8ee//1486719434634.jpg,resources//images//instances//uuid01693ea1-cee8-404e-9638-29392253e8ee//1486719447220.jpg",
+"title": "Kataram ",
+"showWindow": false,
+"icon": "resources/images/pushpins/24x7-red.png",
+"dateOfVisit": "2017-02-20 14:04:15.0",
+"beforeImages": [
+"resources//images//instances//uuid01693ea1-cee8-404e-9638-29392253e8ee//1486719359488.jpg",
+"resources//images//instances//uuid01693ea1-cee8-404e-9638-29392253e8ee//1486719377247.jpg",
+"resources//images//instances//uuid01693ea1-cee8-404e-9638-29392253e8ee//1486719400865.jpg",
+"resources//images//instances//uuid01693ea1-cee8-404e-9638-29392253e8ee//1486719426251.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 520,
+"areaID": "241",
+"dataValue": "48.5",
+"longitude": "79.6735247000",
+"latitude": "18.3319782000",
+"images": "resources//images//instances//uuidda311b50-8af5-495f-91c7-4d39532df67b//1486733006764.jpg,resources//images//instances//uuidda311b50-8af5-495f-91c7-4d39532df67b//1486733103500.jpg,resources//images//instances//uuidda311b50-8af5-495f-91c7-4d39532df67b//1486733158207.jpg,resources//images//instances//uuidda311b50-8af5-495f-91c7-4d39532df67b//1486733247772.jpg,resources//images//instances//uuidda311b50-8af5-495f-91c7-4d39532df67b//1486733268431.jpg,resources//images//instances//uuidda311b50-8af5-495f-91c7-4d39532df67b//1486733282533.jpg,resources//images//instances//uuidda311b50-8af5-495f-91c7-4d39532df67b//1486733299794.jpg",
+"title": "Chityal",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-02-20 14:05:11.0",
+"beforeImages": [
+"resources//images//instances//uuidda311b50-8af5-495f-91c7-4d39532df67b//1486733103500.jpg",
+"resources//images//instances//uuidda311b50-8af5-495f-91c7-4d39532df67b//1486733158207.jpg",
+"resources//images//instances//uuidda311b50-8af5-495f-91c7-4d39532df67b//1486733247772.jpg",
+"resources//images//instances//uuidda311b50-8af5-495f-91c7-4d39532df67b//1486733268431.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 521,
+"areaID": "841",
+"dataValue": "30.3",
+"longitude": "79.4506610400",
+"latitude": "17.9894678200",
+"images": "resources//images//instances//uuidfc9038cf-57f8-4e73-9400-5b33c8947971//1486795237127.jpg,resources//images//instances//uuidfc9038cf-57f8-4e73-9400-5b33c8947971//1486795283855.jpg,resources//images//instances//uuidfc9038cf-57f8-4e73-9400-5b33c8947971//1486795295640.jpg,resources//images//instances//uuidfc9038cf-57f8-4e73-9400-5b33c8947971//1486795309992.jpg,resources//images//instances//uuidfc9038cf-57f8-4e73-9400-5b33c8947971//1486795383984.jpg,resources//images//instances//uuidfc9038cf-57f8-4e73-9400-5b33c8947971//1486795402019.jpg,resources//images//instances//uuidfc9038cf-57f8-4e73-9400-5b33c8947971//1486795413287.jpg",
+"title": "Dharmasagar",
+"showWindow": false,
+"icon": "resources/images/pushpins/24x7-red.png",
+"dateOfVisit": "2017-02-20 14:06:19.0",
+"beforeImages": [
+"resources//images//instances//uuidfc9038cf-57f8-4e73-9400-5b33c8947971//1486795283855.jpg",
+"resources//images//instances//uuidfc9038cf-57f8-4e73-9400-5b33c8947971//1486795295640.jpg",
+"resources//images//instances//uuidfc9038cf-57f8-4e73-9400-5b33c8947971//1486795309992.jpg",
+"resources//images//instances//uuidfc9038cf-57f8-4e73-9400-5b33c8947971//1486795383984.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 522,
+"areaID": "849",
+"dataValue": "39.7",
+"longitude": "79.5234538700",
+"latitude": "18.1803376100",
+"images": "resources//images//instances//uuid5975a63d-5648-4a12-ad51-9b5fb49b4a28//1486804529851.jpg,resources//images//instances//uuid5975a63d-5648-4a12-ad51-9b5fb49b4a28//1486804567630.jpg,resources//images//instances//uuid5975a63d-5648-4a12-ad51-9b5fb49b4a28//1486804605520.jpg,resources//images//instances//uuid5975a63d-5648-4a12-ad51-9b5fb49b4a28//1486804620600.jpg,resources//images//instances//uuid5975a63d-5648-4a12-ad51-9b5fb49b4a28//1486804645770.jpg,resources//images//instances//uuid5975a63d-5648-4a12-ad51-9b5fb49b4a28//1486804657440.jpg",
+"title": "Kamlapur ",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-02-20 14:07:29.0",
+"beforeImages": [
+"resources//images//instances//uuid5975a63d-5648-4a12-ad51-9b5fb49b4a28//1486804567630.jpg",
+"resources/images/Imagenotavailable.png",
+"resources//images//instances//uuid5975a63d-5648-4a12-ad51-9b5fb49b4a28//1486804605520.jpg",
+"resources//images//instances//uuid5975a63d-5648-4a12-ad51-9b5fb49b4a28//1486804620600.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 523,
+"areaID": "837",
+"dataValue": "32.9",
+"longitude": "79.7089434700",
+"latitude": "17.8864537700",
+"images": "resources//images//instances//uuid8cd26991-4a48-4ce9-9815-9cdd58725986//1486538601336.jpg,resources//images//instances//uuid8cd26991-4a48-4ce9-9815-9cdd58725986//1486538665115.jpg,resources//images//instances//uuid8cd26991-4a48-4ce9-9815-9cdd58725986//1486538718429.jpg,resources//images//instances//uuid8cd26991-4a48-4ce9-9815-9cdd58725986//1486538737982.jpg,resources//images//instances//uuid8cd26991-4a48-4ce9-9815-9cdd58725986//1486538753265.jpg,resources//images//instances//uuid8cd26991-4a48-4ce9-9815-9cdd58725986//1486538768969.jpg,resources//images//instances//uuid8cd26991-4a48-4ce9-9815-9cdd58725986//1486538785286.jpg",
+"title": "Sangam",
+"showWindow": false,
+"icon": "resources/images/pushpins/24x7-red.png",
+"dateOfVisit": "2017-02-20 14:10:09.0",
+"beforeImages": [
+"resources//images//instances//uuid8cd26991-4a48-4ce9-9815-9cdd58725986//1486538665115.jpg",
+"resources//images//instances//uuid8cd26991-4a48-4ce9-9815-9cdd58725986//1486538718429.jpg",
+"resources//images//instances//uuid8cd26991-4a48-4ce9-9815-9cdd58725986//1486538737982.jpg",
+"resources//images//instances//uuid8cd26991-4a48-4ce9-9815-9cdd58725986//1486538753265.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 524,
+"areaID": "450",
+"dataValue": "38.0",
+"longitude": "78.2622192",
+"latitude": "18.0450171",
+"images": "resources//images//instances//uuidcd47c6f1-a12a-4318-9413-11c633cb4290//1487580793549.jpg,resources//images//instances//uuidcd47c6f1-a12a-4318-9413-11c633cb4290//1487580834952.jpg,resources//images//instances//uuidcd47c6f1-a12a-4318-9413-11c633cb4290//1487580844704.jpg,resources//images//instances//uuidcd47c6f1-a12a-4318-9413-11c633cb4290//1487580856533.jpg,resources//images//instances//uuidcd47c6f1-a12a-4318-9413-11c633cb4290//1487580868610.jpg,resources//images//instances//uuidcd47c6f1-a12a-4318-9413-11c633cb4290//1487580880384.jpg",
+"title": "Medak",
+"showWindow": false,
+"icon": "resources/images/pushpins/ah-red.png",
+"dateOfVisit": "2017-02-20 14:25:07.0",
+"beforeImages": [
+"resources//images//instances//uuidcd47c6f1-a12a-4318-9413-11c633cb4290//1487580834952.jpg",
+"resources//images//instances//uuidcd47c6f1-a12a-4318-9413-11c633cb4290//1487580844704.jpg",
+"resources//images//instances//uuidcd47c6f1-a12a-4318-9413-11c633cb4290//1487580856533.jpg",
+"resources//images//instances//uuidcd47c6f1-a12a-4318-9413-11c633cb4290//1487580868610.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 525,
+"areaID": "738",
+"dataValue": "14.5",
+"longitude": "78.6299438",
+"latitude": "17.7438629",
+"images": "resources//images//instances//uuidddfb526c-49a0-4afd-a761-e6c136466c42//1487586533097.jpg,resources//images//instances//uuidddfb526c-49a0-4afd-a761-e6c136466c42//1487586584827.jpg,resources//images//instances//uuidddfb526c-49a0-4afd-a761-e6c136466c42//1487586665590.jpg,resources//images//instances//uuidddfb526c-49a0-4afd-a761-e6c136466c42//1487586683641.jpg,resources//images//instances//uuidddfb526c-49a0-4afd-a761-e6c136466c42//1487586694029.jpg,resources//images//instances//uuidddfb526c-49a0-4afd-a761-e6c136466c42//1487586702704.jpg",
+"title": "Mulugu",
+"showWindow": false,
+"icon": "resources/images/pushpins/24x7-red.png",
+"dateOfVisit": "2017-02-20 16:12:52.0",
+"beforeImages": [
+"resources//images//instances//uuidddfb526c-49a0-4afd-a761-e6c136466c42//1487586665590.jpg",
+"resources//images//instances//uuidddfb526c-49a0-4afd-a761-e6c136466c42//1487586683641.jpg",
+"resources//images//instances//uuidddfb526c-49a0-4afd-a761-e6c136466c42//1487586694029.jpg",
+"resources//images//instances//uuidddfb526c-49a0-4afd-a761-e6c136466c42//1487586702704.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 526,
+"areaID": "221",
+"dataValue": "32.4",
+"longitude": "79.0269283333",
+"latitude": "17.7866250000",
+"images": "resources//images//instances//uuid1dc6715b-14ad-4d78-a39e-70d29900eef4//1487664403779.jpg,resources//images//instances//uuid1dc6715b-14ad-4d78-a39e-70d29900eef4//1487664497265.jpg,resources//images//instances//uuid1dc6715b-14ad-4d78-a39e-70d29900eef4//1487664525318.jpg,resources//images//instances//uuid1dc6715b-14ad-4d78-a39e-70d29900eef4//1487664660182.jpg,resources//images//instances//uuid1dc6715b-14ad-4d78-a39e-70d29900eef4//1487664719140.jpg,resources//images//instances//uuid1dc6715b-14ad-4d78-a39e-70d29900eef4//1487664821317.jpg,resources//images//instances//uuid1dc6715b-14ad-4d78-a39e-70d29900eef4//1487664867554.jpg",
+"title": "Bachannapet",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-02-21 14:09:39.0",
+"beforeImages": [
+"resources//images//instances//uuid1dc6715b-14ad-4d78-a39e-70d29900eef4//1487664497265.jpg",
+"resources//images//instances//uuid1dc6715b-14ad-4d78-a39e-70d29900eef4//1487664525318.jpg",
+"resources//images//instances//uuid1dc6715b-14ad-4d78-a39e-70d29900eef4//1487664660182.jpg",
+"resources//images//instances//uuid1dc6715b-14ad-4d78-a39e-70d29900eef4//1487664719140.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 527,
+"areaID": "127",
+"dataValue": "24.5",
+"longitude": "78.4879365000",
+"latitude": "17.4331548000",
+"images": "resources//images//instances//uuid345cbf1e-e43c-4d85-8dd6-4820b4f615c2//1487744989097.jpg,resources//images//instances//uuid345cbf1e-e43c-4d85-8dd6-4820b4f615c2//1487745012580.jpg,resources//images//instances//uuid345cbf1e-e43c-4d85-8dd6-4820b4f615c2//1487745023429.jpg,resources//images//instances//uuid345cbf1e-e43c-4d85-8dd6-4820b4f615c2//1487745220452.jpg,resources//images//instances//uuid345cbf1e-e43c-4d85-8dd6-4820b4f615c2//1487745238751.jpg,resources//images//instances//uuid345cbf1e-e43c-4d85-8dd6-4820b4f615c2//1487745301851.jpg",
+"title": "Dr.Pual Das",
+"showWindow": false,
+"icon": "resources/images/pushpins/uphc-red.png",
+"dateOfVisit": "2017-02-22 12:42:17.0",
+"beforeImages": [
+"resources//images//instances//uuid345cbf1e-e43c-4d85-8dd6-4820b4f615c2//1487744989097.jpg",
+"resources//images//instances//uuid345cbf1e-e43c-4d85-8dd6-4820b4f615c2//1487745012580.jpg",
+"resources//images//instances//uuid345cbf1e-e43c-4d85-8dd6-4820b4f615c2//1487745023429.jpg",
+"resources//images//instances//uuid345cbf1e-e43c-4d85-8dd6-4820b4f615c2//1487745220452.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 528,
+"areaID": "117",
+"dataValue": "34.4",
+"longitude": "78.4080044000",
+"latitude": "17.4525996000",
+"images": "resources//images//instances//uuid3aedd30f-6ee5-400b-b7f8-d345b7eda9c5//1487753189222.jpg,resources//images//instances//uuid3aedd30f-6ee5-400b-b7f8-d345b7eda9c5//1487753217467.jpg,resources//images//instances//uuid3aedd30f-6ee5-400b-b7f8-d345b7eda9c5//1487753260565.jpg,resources//images//instances//uuid3aedd30f-6ee5-400b-b7f8-d345b7eda9c5//1487753279556.jpg,resources//images//instances//uuid3aedd30f-6ee5-400b-b7f8-d345b7eda9c5//1487753385993.jpg,resources//images//instances//uuid3aedd30f-6ee5-400b-b7f8-d345b7eda9c5//1487753413004.jpg",
+"title": "Borabanda",
+"showWindow": false,
+"icon": "resources/images/pushpins/uphc-red.png",
+"dateOfVisit": "2017-02-22 14:28:47.0",
+"beforeImages": [
+"resources//images//instances//uuid3aedd30f-6ee5-400b-b7f8-d345b7eda9c5//1487753189222.jpg",
+"resources//images//instances//uuid3aedd30f-6ee5-400b-b7f8-d345b7eda9c5//1487753217467.jpg",
+"resources//images//instances//uuid3aedd30f-6ee5-400b-b7f8-d345b7eda9c5//1487753260565.jpg",
+"resources//images//instances//uuid3aedd30f-6ee5-400b-b7f8-d345b7eda9c5//1487753279556.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 529,
+"areaID": "352",
+"dataValue": "33.8",
+"longitude": "80.357513",
+"latitude": "17.191774",
+"images": "resources//images//instances//uuid5c45f0b1-790e-4222-a4d4-ada3b38db51a//1487675344359.jpg,resources//images//instances//uuid5c45f0b1-790e-4222-a4d4-ada3b38db51a//1487675378879.jpg,resources//images//instances//uuid5c45f0b1-790e-4222-a4d4-ada3b38db51a//1487675473536.jpg,resources//images//instances//uuid5c45f0b1-790e-4222-a4d4-ada3b38db51a//1487675487141.jpg,resources//images//instances//uuid5c45f0b1-790e-4222-a4d4-ada3b38db51a//1487675526012.jpg,resources//images//instances//uuid5c45f0b1-790e-4222-a4d4-ada3b38db51a//1487675539846.jpg",
+"title": "Wyra ",
+"showWindow": false,
+"icon": "resources/images/pushpins/24x7-red.png",
+"dateOfVisit": "2017-02-22 15:23:47.0",
+"beforeImages": [
+"resources//images//instances//uuid5c45f0b1-790e-4222-a4d4-ada3b38db51a//1487675473536.jpg",
+"resources//images//instances//uuid5c45f0b1-790e-4222-a4d4-ada3b38db51a//1487675487141.jpg",
+"resources//images//instances//uuid5c45f0b1-790e-4222-a4d4-ada3b38db51a//1487675526012.jpg",
+"resources//images//instances//uuid5c45f0b1-790e-4222-a4d4-ada3b38db51a//1487675539846.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 530,
+"areaID": "67",
+"dataValue": "25.2",
+"longitude": "80.826706",
+"latitude": "18.072505",
+"images": "resources//images//instances//uuid8c235b33-34da-465b-a300-a59fc6f446ae//1487746554606.jpg,resources//images//instances//uuid8c235b33-34da-465b-a300-a59fc6f446ae//1487747227992.jpg,resources//images//instances//uuid8c235b33-34da-465b-a300-a59fc6f446ae//1487747357385.jpg,resources//images//instances//uuid8c235b33-34da-465b-a300-a59fc6f446ae//1487747379591.jpg,resources//images//instances//uuid8c235b33-34da-465b-a300-a59fc6f446ae//1487747472581.jpg,resources//images//instances//uuid8c235b33-34da-465b-a300-a59fc6f446ae//1487747733206.jpg,resources//images//instances//uuid8c235b33-34da-465b-a300-a59fc6f446ae//1487747770295.jpg,resources//images//instances//uuid8c235b33-34da-465b-a300-a59fc6f446ae//1487747800067.jpg",
+"title": "Cherla ",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-02-22 15:27:56.0",
+"beforeImages": [
+"resources//images//instances//uuid8c235b33-34da-465b-a300-a59fc6f446ae//1487747357385.jpg",
+"resources//images//instances//uuid8c235b33-34da-465b-a300-a59fc6f446ae//1487747379591.jpg",
+"resources//images//instances//uuid8c235b33-34da-465b-a300-a59fc6f446ae//1487747472581.jpg",
+"resources//images//instances//uuid8c235b33-34da-465b-a300-a59fc6f446ae//1487747733206.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 531,
+"areaID": "70",
+"dataValue": "23.6",
+"longitude": "80.886203",
+"latitude": "17.850819",
+"images": "resources//images//instances//uuid4f8beb66-92b2-49ad-9d20-731db9dda675//1487754642541.jpg,resources//images//instances//uuid4f8beb66-92b2-49ad-9d20-731db9dda675//1487756169766.jpg,resources//images//instances//uuid4f8beb66-92b2-49ad-9d20-731db9dda675//1487756215695.jpg,resources//images//instances//uuid4f8beb66-92b2-49ad-9d20-731db9dda675//1487756278582.jpg,resources//images//instances//uuid4f8beb66-92b2-49ad-9d20-731db9dda675//1487756300383.jpg,resources//images//instances//uuid4f8beb66-92b2-49ad-9d20-731db9dda675//1487756439483.jpg,resources//images//instances//uuid4f8beb66-92b2-49ad-9d20-731db9dda675//1487756466342.jpg,resources//images//instances//uuid4f8beb66-92b2-49ad-9d20-731db9dda675//1487756603867.jpg",
+"title": "Dummugudem",
+"showWindow": false,
+"icon": "resources/images/pushpins/24x7-red.png",
+"dateOfVisit": "2017-02-22 15:37:16.0",
+"beforeImages": [
+"resources//images//instances//uuid4f8beb66-92b2-49ad-9d20-731db9dda675//1487756215695.jpg",
+"resources//images//instances//uuid4f8beb66-92b2-49ad-9d20-731db9dda675//1487756278582.jpg",
+"resources//images//instances//uuid4f8beb66-92b2-49ad-9d20-731db9dda675//1487756300383.jpg",
+"resources//images//instances//uuid4f8beb66-92b2-49ad-9d20-731db9dda675//1487756439483.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 532,
+"areaID": "94",
+"dataValue": "27.6",
+"longitude": "80.5145",
+"latitude": "17.5628",
+"images": "resources//images//instances//uuidb58c2462-774b-4744-b247-7fb000fda55e//1487775965141.jpg,resources//images//instances//uuidb58c2462-774b-4744-b247-7fb000fda55e//1487776283369.jpg,resources//images//instances//uuidb58c2462-774b-4744-b247-7fb000fda55e//1487776318115.jpg,resources//images//instances//uuidb58c2462-774b-4744-b247-7fb000fda55e//1487776329245.jpg,resources//images//instances//uuidb58c2462-774b-4744-b247-7fb000fda55e//1487776342799.jpg,resources//images//instances//uuidb58c2462-774b-4744-b247-7fb000fda55e//1487776351446.jpg",
+"title": "Sulhanagar ",
+"showWindow": false,
+"icon": "resources/images/pushpins/24x7-red.png",
+"dateOfVisit": "2017-02-25 15:31:57.0",
+"beforeImages": [
+"resources//images//instances//uuidb58c2462-774b-4744-b247-7fb000fda55e//1487776318115.jpg",
+"resources//images//instances//uuidb58c2462-774b-4744-b247-7fb000fda55e//1487776329245.jpg",
+"resources//images//instances//uuidb58c2462-774b-4744-b247-7fb000fda55e//1487776342799.jpg",
+"resources//images//instances//uuidb58c2462-774b-4744-b247-7fb000fda55e//1487776351446.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 533,
+"areaID": "96",
+"dataValue": "32.5",
+"longitude": "80.322363",
+"latitude": "17.594134",
+"images": "resources//images//instances//uuid60df86d1-a25d-4b0d-a2d4-93c5d55f6aae//1487780794689.jpg,resources//images//instances//uuid60df86d1-a25d-4b0d-a2d4-93c5d55f6aae//1488017487712.jpg,resources//images//instances//uuid60df86d1-a25d-4b0d-a2d4-93c5d55f6aae//1488017503147.jpg,resources//images//instances//uuid60df86d1-a25d-4b0d-a2d4-93c5d55f6aae//1487780885716.jpg,resources//images//instances//uuid60df86d1-a25d-4b0d-a2d4-93c5d55f6aae//1488017537421.jpg",
+"title": "Yellandu",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-02-25 15:58:53.0",
+"beforeImages": [
+"resources//images//instances//uuid60df86d1-a25d-4b0d-a2d4-93c5d55f6aae//1488017487712.jpg",
+"resources//images//instances//uuid60df86d1-a25d-4b0d-a2d4-93c5d55f6aae//1488017503147.jpg",
+"resources//images//instances//uuid60df86d1-a25d-4b0d-a2d4-93c5d55f6aae//1487780885716.jpg",
+"resources//images//instances//uuid60df86d1-a25d-4b0d-a2d4-93c5d55f6aae//1488017537421.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 534,
+"areaID": "681",
+"dataValue": "23.7",
+"longitude": "78.394835",
+"latitude": "17.262710",
+"images": "resources//images//instances//uuid4e655bb4-47bc-4d1a-8c12-a25f4fbfc9ad//1487743149755.jpg,resources//images//instances//uuid4e655bb4-47bc-4d1a-8c12-a25f4fbfc9ad//1488183947173.jpg,resources//images//instances//uuid4e655bb4-47bc-4d1a-8c12-a25f4fbfc9ad//1487333889595.jpg,resources//images//instances//uuid4e655bb4-47bc-4d1a-8c12-a25f4fbfc9ad//1487743726999.jpg,resources//images//instances//uuid4e655bb4-47bc-4d1a-8c12-a25f4fbfc9ad//1487743772123.jpg,resources//images//instances//uuid4e655bb4-47bc-4d1a-8c12-a25f4fbfc9ad//1487743907552.jpg,resources//images//instances//uuid4e655bb4-47bc-4d1a-8c12-a25f4fbfc9ad//1487744014196.jpg",
+"title": "Shamsabad",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-02-27 16:03:25.0",
+"beforeImages": [
+"resources//images//instances//uuid4e655bb4-47bc-4d1a-8c12-a25f4fbfc9ad//1487333889595.jpg",
+"resources/images/Imagenotavailable.png",
+"resources//images//instances//uuid4e655bb4-47bc-4d1a-8c12-a25f4fbfc9ad//1487743726999.jpg",
+"resources//images//instances//uuid4e655bb4-47bc-4d1a-8c12-a25f4fbfc9ad//1487743772123.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 535,
+"areaID": "659",
+"dataValue": "26.8",
+"longitude": "78.648211",
+"latitude": "17.197277",
+"images": "resources//images//instances//uuid869b0669-b937-468c-9112-47e51730268e//1488185387893.jpg,resources//images//instances//uuid869b0669-b937-468c-9112-47e51730268e//1488186062558.jpg,resources//images//instances//uuid869b0669-b937-468c-9112-47e51730268e//1488188883691.jpg,resources//images//instances//uuid869b0669-b937-468c-9112-47e51730268e//1488188913962.jpg,resources//images//instances//uuid869b0669-b937-468c-9112-47e51730268e//1488188933743.jpg,resources//images//instances//uuid869b0669-b937-468c-9112-47e51730268e//1488188989621.jpg,resources//images//instances//uuid869b0669-b937-468c-9112-47e51730268e//1488189016021.jpg,resources//images//instances//uuid869b0669-b937-468c-9112-47e51730268e//1488189043094.jpg",
+"title": "Ibrahimpatnam",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-02-27 16:03:42.0",
+"beforeImages": [
+"resources//images//instances//uuid869b0669-b937-468c-9112-47e51730268e//1488188883691.jpg",
+"resources//images//instances//uuid869b0669-b937-468c-9112-47e51730268e//1488188913962.jpg",
+"resources//images//instances//uuid869b0669-b937-468c-9112-47e51730268e//1488188933743.jpg",
+"resources//images//instances//uuid869b0669-b937-468c-9112-47e51730268e//1488188989621.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 536,
+"areaID": "664",
+"dataValue": "40.9",
+"longitude": "78.206794",
+"latitude": "17.076379",
+"images": "resources//images//instances//uuid078fe422-7a1b-459d-9717-3e95b0cafe62//1488189737809.jpg,resources//images//instances//uuid078fe422-7a1b-459d-9717-3e95b0cafe62//1488190376329.jpg,resources//images//instances//uuid078fe422-7a1b-459d-9717-3e95b0cafe62//1488189407192.jpg,resources//images//instances//uuid078fe422-7a1b-459d-9717-3e95b0cafe62//1488169591256.jpg,resources//images//instances//uuid078fe422-7a1b-459d-9717-3e95b0cafe62//1488189383059.jpg,resources//images//instances//uuid078fe422-7a1b-459d-9717-3e95b0cafe62//1488169625238.jpg,resources//images//instances//uuid078fe422-7a1b-459d-9717-3e95b0cafe62//1488169653039.jpg,resources//images//instances//uuid078fe422-7a1b-459d-9717-3e95b0cafe62//1488169668742.jpg",
+"title": "Kondurg",
+"showWindow": false,
+"icon": "resources/images/pushpins/24x7-red.png",
+"dateOfVisit": "2017-02-27 16:03:53.0",
+"beforeImages": [
+"resources//images//instances//uuid078fe422-7a1b-459d-9717-3e95b0cafe62//1488189407192.jpg",
+"resources//images//instances//uuid078fe422-7a1b-459d-9717-3e95b0cafe62//1488169591256.jpg",
+"resources//images//instances//uuid078fe422-7a1b-459d-9717-3e95b0cafe62//1488189383059.jpg",
+"resources//images//instances//uuid078fe422-7a1b-459d-9717-3e95b0cafe62//1488169625238.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 537,
+"areaID": "651",
+"dataValue": "29.4",
+"longitude": "78.13660026",
+"latitude": "17.31348154",
+"images": "resources//images//instances//uuidf319d2c9-6b86-44a2-8ac3-5dcac34ef726//1488183257347.jpg,resources//images//instances//uuidf319d2c9-6b86-44a2-8ac3-5dcac34ef726//1488183310245.jpg,resources//images//instances//uuidf319d2c9-6b86-44a2-8ac3-5dcac34ef726//1488169283277.jpg,resources//images//instances//uuidf319d2c9-6b86-44a2-8ac3-5dcac34ef726//1488169366567.jpg,resources//images//instances//uuidf319d2c9-6b86-44a2-8ac3-5dcac34ef726//1488190828979.jpg,resources//images//instances//uuidf319d2c9-6b86-44a2-8ac3-5dcac34ef726//1488190860066.jpg",
+"title": "Chevella",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-02-27 16:04:09.0",
+"beforeImages": [
+"resources//images//instances//uuidf319d2c9-6b86-44a2-8ac3-5dcac34ef726//1488169283277.jpg",
+"resources/images/Imagenotavailable.png",
+"resources//images//instances//uuidf319d2c9-6b86-44a2-8ac3-5dcac34ef726//1488169366567.jpg",
+"resources/images/Imagenotavailable.png"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 538,
+"areaID": "787",
+"dataValue": "20.8",
+"longitude": "77.8756651317",
+"latitude": "17.0181915528",
+"images": "resources//images//instances//uuid77fd96c0-0215-4459-b007-3691c7485edd//1486717820339.jpg,resources//images//instances//uuid77fd96c0-0215-4459-b007-3691c7485edd//1486717858065.jpg,resources//images//instances//uuid77fd96c0-0215-4459-b007-3691c7485edd//1486717128290.jpg,resources//images//instances//uuid77fd96c0-0215-4459-b007-3691c7485edd//1486717151629.jpg,resources//images//instances//uuid77fd96c0-0215-4459-b007-3691c7485edd//1486717166698.jpg,resources//images//instances//uuid77fd96c0-0215-4459-b007-3691c7485edd//1486717194818.jpg,resources//images//instances//uuid77fd96c0-0215-4459-b007-3691c7485edd//1486717206375.jpg,resources//images//instances//uuid77fd96c0-0215-4459-b007-3691c7485edd//1486717218066.jpg",
+"title": "Kulkacherla",
+"showWindow": false,
+"icon": "resources/images/pushpins/phc-red.png",
+"dateOfVisit": "2017-02-27 16:55:25.0",
+"beforeImages": [
+"resources//images//instances//uuid77fd96c0-0215-4459-b007-3691c7485edd//1486717128290.jpg",
+"resources//images//instances//uuid77fd96c0-0215-4459-b007-3691c7485edd//1486717151629.jpg",
+"resources//images//instances//uuid77fd96c0-0215-4459-b007-3691c7485edd//1486717166698.jpg",
+"resources//images//instances//uuid77fd96c0-0215-4459-b007-3691c7485edd//1486717194818.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 539,
+"areaID": "308",
+"dataValue": "43.3",
+"longitude": "79.4716291227",
+"latitude": "18.2930015729",
+"images": "resources//images//instances//uuideadfb946-8d9a-4bda-a517-a17a0f74f8b2//1487838568885.jpg,resources//images//instances//uuideadfb946-8d9a-4bda-a517-a17a0f74f8b2//1487838636609.jpg,resources//images//instances//uuideadfb946-8d9a-4bda-a517-a17a0f74f8b2//1487838680503.jpg,resources//images//instances//uuideadfb946-8d9a-4bda-a517-a17a0f74f8b2//1487838730947.jpg,resources//images//instances//uuideadfb946-8d9a-4bda-a517-a17a0f74f8b2//1487838747179.jpg",
+"title": "Jammikunta",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-03-01 00:05:14.0",
+"beforeImages": [
+"resources//images//instances//uuideadfb946-8d9a-4bda-a517-a17a0f74f8b2//1487838568885.jpg",
+"resources//images//instances//uuideadfb946-8d9a-4bda-a517-a17a0f74f8b2//1487838636609.jpg",
+"resources//images//instances//uuideadfb946-8d9a-4bda-a517-a17a0f74f8b2//1487838680503.jpg",
+"resources//images//instances//uuideadfb946-8d9a-4bda-a517-a17a0f74f8b2//1487838730947.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 540,
+"areaID": "636",
+"dataValue": "30.3",
+"longitude": "78.6930039383",
+"latitude": "18.4820535437",
+"images": "resources//images//instances//uuid5c283369-21ef-4324-9dc3-d0e50638ea7c//1488188472876.jpg,resources//images//instances//uuid5c283369-21ef-4324-9dc3-d0e50638ea7c//1488188487822.jpg,resources//images//instances//uuid5c283369-21ef-4324-9dc3-d0e50638ea7c//1488188518234.jpg,resources//images//instances//uuid5c283369-21ef-4324-9dc3-d0e50638ea7c//1488188530521.jpg,resources//images//instances//uuid5c283369-21ef-4324-9dc3-d0e50638ea7c//1488188540531.jpg",
+"title": "Konaropet ",
+"showWindow": false,
+"icon": "resources/images/pushpins/phc-red.png",
+"dateOfVisit": "2017-03-01 00:05:29.0",
+"beforeImages": [
+"resources//images//instances//uuid5c283369-21ef-4324-9dc3-d0e50638ea7c//1488188472876.jpg",
+"resources//images//instances//uuid5c283369-21ef-4324-9dc3-d0e50638ea7c//1488188487822.jpg",
+"resources//images//instances//uuid5c283369-21ef-4324-9dc3-d0e50638ea7c//1488188518234.jpg",
+"resources//images//instances//uuid5c283369-21ef-4324-9dc3-d0e50638ea7c//1488188530521.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 541,
+"areaID": "634",
+"dataValue": "40.9",
+"longitude": "78.5714712019",
+"latitude": "18.3118326990",
+"images": "resources//images//instances//uuid31dc1493-6628-43e7-9226-b8f9ade8f82f//1488198888839.jpg,resources//images//instances//uuid31dc1493-6628-43e7-9226-b8f9ade8f82f//1488198922132.jpg,resources//images//instances//uuid31dc1493-6628-43e7-9226-b8f9ade8f82f//1488198954095.jpg,resources//images//instances//uuid31dc1493-6628-43e7-9226-b8f9ade8f82f//1488199000213.jpg",
+"title": "Gambhiraopet ",
+"showWindow": false,
+"icon": "resources/images/pushpins/phc-red.png",
+"dateOfVisit": "2017-03-01 00:05:40.0",
+"beforeImages": [
+"resources//images//instances//uuid31dc1493-6628-43e7-9226-b8f9ade8f82f//1488198888839.jpg",
+"resources//images//instances//uuid31dc1493-6628-43e7-9226-b8f9ade8f82f//1488198922132.jpg",
+"resources//images//instances//uuid31dc1493-6628-43e7-9226-b8f9ade8f82f//1488198954095.jpg",
+"resources//images//instances//uuid31dc1493-6628-43e7-9226-b8f9ade8f82f//1488199000213.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 542,
+"areaID": "555",
+"dataValue": "38.0",
+"longitude": "78.6523175000",
+"latitude": "19.0404587900",
+"images": "resources//images//instances//uuidc01cc55e-7ac9-4be7-b67a-b293139765d3//1488375807411.jpg,resources//images//instances//uuidc01cc55e-7ac9-4be7-b67a-b293139765d3//1486441103163.jpg,resources//images//instances//uuidc01cc55e-7ac9-4be7-b67a-b293139765d3//1486443057622.jpg,resources//images//instances//uuidc01cc55e-7ac9-4be7-b67a-b293139765d3//1486441369642.jpg,resources//images//instances//uuidc01cc55e-7ac9-4be7-b67a-b293139765d3//1486443186585.jpg",
+"title": "AH Khanapur",
+"showWindow": false,
+"icon": "resources/images/pushpins/ah-red.png",
+"dateOfVisit": "2017-03-01 19:17:07.0",
+"beforeImages": [
+"resources//images//instances//uuidc01cc55e-7ac9-4be7-b67a-b293139765d3//1486441103163.jpg",
+"resources//images//instances//uuidc01cc55e-7ac9-4be7-b67a-b293139765d3//1486443057622.jpg",
+"resources//images//instances//uuidc01cc55e-7ac9-4be7-b67a-b293139765d3//1486441369642.jpg",
+"resources//images//instances//uuidc01cc55e-7ac9-4be7-b67a-b293139765d3//1486443186585.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 543,
+"areaID": "434",
+"dataValue": "26.0",
+"longitude": "79.2049399600",
+"latitude": "18.8878776300",
+"images": "resources//images//instances//uuidcff21f36-abce-4bd1-a802-35a5244c0aca//1488376220049.jpg,resources//images//instances//uuidcff21f36-abce-4bd1-a802-35a5244c0aca//1486452063348.jpg,resources//images//instances//uuidcff21f36-abce-4bd1-a802-35a5244c0aca//1486452094322.jpg,resources//images//instances//uuidcff21f36-abce-4bd1-a802-35a5244c0aca//1486450385221.jpg,resources//images//instances//uuidcff21f36-abce-4bd1-a802-35a5244c0aca//1486452114736.jpg,resources//images//instances//uuidcff21f36-abce-4bd1-a802-35a5244c0aca//1486450415178.jpg",
+"title": "Laxetipet",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-03-01 19:28:30.0",
+"beforeImages": [
+"resources//images//instances//uuidcff21f36-abce-4bd1-a802-35a5244c0aca//1486452063348.jpg",
+"resources//images//instances//uuidcff21f36-abce-4bd1-a802-35a5244c0aca//1486452094322.jpg",
+"resources//images//instances//uuidcff21f36-abce-4bd1-a802-35a5244c0aca//1486450385221.jpg",
+"resources//images//instances//uuidcff21f36-abce-4bd1-a802-35a5244c0aca//1486452114736.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 544,
+"areaID": "424",
+"dataValue": "42.8",
+"longitude": "79.4766643200",
+"latitude": "19.0753365900",
+"images": "resources//images//instances//uuidbed31e46-548a-43e0-bfb0-c4ff44a9bab2//1488377835717.jpg,resources//images//instances//uuidbed31e46-548a-43e0-bfb0-c4ff44a9bab2//1488377870585.jpg,resources//images//instances//uuidbed31e46-548a-43e0-bfb0-c4ff44a9bab2//1486460022969.jpg,resources//images//instances//uuidbed31e46-548a-43e0-bfb0-c4ff44a9bab2//1486460338399.jpg,resources//images//instances//uuidbed31e46-548a-43e0-bfb0-c4ff44a9bab2//1486460295635.jpg,resources//images//instances//uuidbed31e46-548a-43e0-bfb0-c4ff44a9bab2//1486460385625.jpg",
+"title": "Bellampally",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-03-01 19:54:00.0",
+"beforeImages": [
+"resources//images//instances//uuidbed31e46-548a-43e0-bfb0-c4ff44a9bab2//1486460022969.jpg",
+"resources/images/Imagenotavailable.png",
+"resources//images//instances//uuidbed31e46-548a-43e0-bfb0-c4ff44a9bab2//1486460338399.jpg",
+"resources//images//instances//uuidbed31e46-548a-43e0-bfb0-c4ff44a9bab2//1486460295635.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 545,
+"areaID": "46",
+"dataValue": "26.5",
+"longitude": "78.6700172700",
+"latitude": "19.4925341000",
+"images": "resources//images//instances//uuidf2350e5f-cb9a-47a9-a1b1-6c1280fb0fe4//1486531146065.jpg,resources//images//instances//uuidf2350e5f-cb9a-47a9-a1b1-6c1280fb0fe4//1488378433079.jpg,resources//images//instances//uuidf2350e5f-cb9a-47a9-a1b1-6c1280fb0fe4//1486529161486.jpg,resources//images//instances//uuidf2350e5f-cb9a-47a9-a1b1-6c1280fb0fe4//1486529222835.jpg,resources//images//instances//uuidf2350e5f-cb9a-47a9-a1b1-6c1280fb0fe4//1486529260537.jpg,resources//images//instances//uuidf2350e5f-cb9a-47a9-a1b1-6c1280fb0fe4//1486529303904.jpg,resources//images//instances//uuidf2350e5f-cb9a-47a9-a1b1-6c1280fb0fe4//1486529328660.jpg,resources//images//instances//uuidf2350e5f-cb9a-47a9-a1b1-6c1280fb0fe4//1486529357779.jpg",
+"title": "Indervelly",
+"showWindow": false,
+"icon": "resources/images/pushpins/phc-red.png",
+"dateOfVisit": "2017-03-01 20:01:43.0",
+"beforeImages": [
+"resources//images//instances//uuidf2350e5f-cb9a-47a9-a1b1-6c1280fb0fe4//1486529161486.jpg",
+"resources//images//instances//uuidf2350e5f-cb9a-47a9-a1b1-6c1280fb0fe4//1486529222835.jpg",
+"resources//images//instances//uuidf2350e5f-cb9a-47a9-a1b1-6c1280fb0fe4//1486529260537.jpg",
+"resources//images//instances//uuidf2350e5f-cb9a-47a9-a1b1-6c1280fb0fe4//1486529303904.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 546,
+"areaID": "49",
+"dataValue": "32.6",
+"longitude": "78.8531879900",
+"latitude": "19.5007242400",
+"images": "resources//images//instances//uuidc1e0fd89-f26f-4b99-97bd-86b34b7845e3//1486536629555.jpg,resources//images//instances//uuidc1e0fd89-f26f-4b99-97bd-86b34b7845e3//1488379090847.jpg,resources//images//instances//uuidc1e0fd89-f26f-4b99-97bd-86b34b7845e3//1486534084097.jpg,resources//images//instances//uuidc1e0fd89-f26f-4b99-97bd-86b34b7845e3//1486534160268.jpg,resources//images//instances//uuidc1e0fd89-f26f-4b99-97bd-86b34b7845e3//1486535876465.jpg,resources//images//instances//uuidc1e0fd89-f26f-4b99-97bd-86b34b7845e3//1486534429141.jpg",
+"title": "Narnoor",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-03-01 20:11:34.0",
+"beforeImages": [
+"resources//images//instances//uuidc1e0fd89-f26f-4b99-97bd-86b34b7845e3//1486534084097.jpg",
+"resources/images/Imagenotavailable.png",
+"resources//images//instances//uuidc1e0fd89-f26f-4b99-97bd-86b34b7845e3//1486534160268.jpg",
+"resources//images//instances//uuidc1e0fd89-f26f-4b99-97bd-86b34b7845e3//1486535876465.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 547,
+"areaID": "39",
+"dataValue": "39.5",
+"longitude": "78.3163865100",
+"latitude": "19.3474899500",
+"images": "resources//images//instances//uuid2a4f23ec-b8e9-4a1e-ae77-d7e6aa56460d//1488381154764.jpg,resources//images//instances//uuid2a4f23ec-b8e9-4a1e-ae77-d7e6aa56460d//1488381174655.jpg,resources//images//instances//uuid2a4f23ec-b8e9-4a1e-ae77-d7e6aa56460d//1486545077093.jpg,resources//images//instances//uuid2a4f23ec-b8e9-4a1e-ae77-d7e6aa56460d//1486544859661.jpg,resources//images//instances//uuid2a4f23ec-b8e9-4a1e-ae77-d7e6aa56460d//1486544829465.jpg,resources//images//instances//uuid2a4f23ec-b8e9-4a1e-ae77-d7e6aa56460d//1486544934372.jpg,resources//images//instances//uuid2a4f23ec-b8e9-4a1e-ae77-d7e6aa56460d//1486544968551.jpg",
+"title": "Boath",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-03-01 20:57:56.0",
+"beforeImages": [
+"resources//images//instances//uuid2a4f23ec-b8e9-4a1e-ae77-d7e6aa56460d//1486545077093.jpg",
+"resources//images//instances//uuid2a4f23ec-b8e9-4a1e-ae77-d7e6aa56460d//1486544859661.jpg",
+"resources//images//instances//uuid2a4f23ec-b8e9-4a1e-ae77-d7e6aa56460d//1486544829465.jpg",
+"resources//images//instances//uuid2a4f23ec-b8e9-4a1e-ae77-d7e6aa56460d//1486544934372.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 548,
+"areaID": "45",
+"dataValue": "38.2",
+"longitude": "78.4539237700",
+"latitude": "19.4223710500",
+"images": "resources//images//instances//uuid06dd892b-2b42-4cf4-9ec0-1e12613df25d//1488383632252.jpg,resources//images//instances//uuid06dd892b-2b42-4cf4-9ec0-1e12613df25d//1488383651245.jpg,resources//images//instances//uuid06dd892b-2b42-4cf4-9ec0-1e12613df25d//1486550412122.jpg,resources//images//instances//uuid06dd892b-2b42-4cf4-9ec0-1e12613df25d//1486550486403.jpg,resources//images//instances//uuid06dd892b-2b42-4cf4-9ec0-1e12613df25d//1486549014241.jpg,resources//images//instances//uuid06dd892b-2b42-4cf4-9ec0-1e12613df25d//1486549648174.jpg,resources//images//instances//uuid06dd892b-2b42-4cf4-9ec0-1e12613df25d//1486550465670.jpg",
+"title": "Ichoda",
+"showWindow": false,
+"icon": "resources/images/pushpins/phc-red.png",
+"dateOfVisit": "2017-03-01 21:29:03.0",
+"beforeImages": [
+"resources//images//instances//uuid06dd892b-2b42-4cf4-9ec0-1e12613df25d//1486550412122.jpg",
+"resources//images//instances//uuid06dd892b-2b42-4cf4-9ec0-1e12613df25d//1486550486403.jpg",
+"resources//images//instances//uuid06dd892b-2b42-4cf4-9ec0-1e12613df25d//1486549014241.jpg",
+"resources//images//instances//uuid06dd892b-2b42-4cf4-9ec0-1e12613df25d//1486549648174.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 549,
+"areaID": "38",
+"dataValue": "60.8",
+"longitude": "78.4217964800",
+"latitude": "19.7730467500",
+"images": "resources//images//instances//uuidbd0d3d72-b006-45fa-9a31-240a4156e12e//1488384115651.jpg,resources//images//instances//uuidbd0d3d72-b006-45fa-9a31-240a4156e12e//1486618727356.jpg,resources//images//instances//uuidbd0d3d72-b006-45fa-9a31-240a4156e12e//1486617168315.jpg,resources//images//instances//uuidbd0d3d72-b006-45fa-9a31-240a4156e12e//1486617074357.jpg,resources//images//instances//uuidbd0d3d72-b006-45fa-9a31-240a4156e12e//1486619184593.jpg,resources//images//instances//uuidbd0d3d72-b006-45fa-9a31-240a4156e12e//1486617124176.jpg,resources//images//instances//uuidbd0d3d72-b006-45fa-9a31-240a4156e12e//1486619071192.jpg",
+"title": "Bheempur T",
+"showWindow": false,
+"icon": "resources/images/pushpins/phc-orange.png",
+"dateOfVisit": "2017-03-01 21:38:56.0",
+"beforeImages": [
+"resources//images//instances//uuidbd0d3d72-b006-45fa-9a31-240a4156e12e//1486618727356.jpg",
+"resources//images//instances//uuidbd0d3d72-b006-45fa-9a31-240a4156e12e//1486617168315.jpg",
+"resources//images//instances//uuidbd0d3d72-b006-45fa-9a31-240a4156e12e//1486617074357.jpg",
+"resources//images//instances//uuidbd0d3d72-b006-45fa-9a31-240a4156e12e//1486619184593.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 550,
+"areaID": "786",
+"dataValue": "23.8",
+"longitude": "77.623541",
+"latitude": "17.1103",
+"images": "resources//images//instances//uuid382945f9-f081-4ffb-ab03-24b12c310b99//1486708651072.jpg,resources//images//instances//uuid382945f9-f081-4ffb-ab03-24b12c310b99//1486708739364.jpg,resources//images//instances//uuid382945f9-f081-4ffb-ab03-24b12c310b99//1486708774588.jpg,resources//images//instances//uuid382945f9-f081-4ffb-ab03-24b12c310b99//1486709507629.jpg,resources//images//instances//uuid382945f9-f081-4ffb-ab03-24b12c310b99//1486709522793.jpg",
+"title": "Kodangal",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-03-02 08:43:26.0",
+"beforeImages": [
+"resources//images//instances//uuid382945f9-f081-4ffb-ab03-24b12c310b99//1486708739364.jpg",
+"resources//images//instances//uuid382945f9-f081-4ffb-ab03-24b12c310b99//1486708774588.jpg",
+"resources//images//instances//uuid382945f9-f081-4ffb-ab03-24b12c310b99//1486709507629.jpg",
+"resources//images//instances//uuid382945f9-f081-4ffb-ab03-24b12c310b99//1486709522793.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 551,
+"areaID": "266",
+"dataValue": "26.7",
+"longitude": "78.1296298998",
+"latitude": "15.8807796971",
+"images": "resources//images//instances//uuid6e023956-2cbc-4473-86e2-a9f8f94dc068//1488439472558.jpg,resources//images//instances//uuid6e023956-2cbc-4473-86e2-a9f8f94dc068//1488439516567.jpg,resources//images//instances//uuid6e023956-2cbc-4473-86e2-a9f8f94dc068//1486626205413.jpg,resources//images//instances//uuid6e023956-2cbc-4473-86e2-a9f8f94dc068//1486626224456.jpg,resources//images//instances//uuid6e023956-2cbc-4473-86e2-a9f8f94dc068//1486626264424.jpg,resources//images//instances//uuid6e023956-2cbc-4473-86e2-a9f8f94dc068//1486626289090.jpg,resources//images//instances//uuid6e023956-2cbc-4473-86e2-a9f8f94dc068//1486626332803.jpg,resources//images//instances//uuid6e023956-2cbc-4473-86e2-a9f8f94dc068//1486626361873.jpg",
+"title": "Alampur ",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-03-02 12:56:30.0",
+"beforeImages": [
+"resources//images//instances//uuid6e023956-2cbc-4473-86e2-a9f8f94dc068//1486626205413.jpg",
+"resources//images//instances//uuid6e023956-2cbc-4473-86e2-a9f8f94dc068//1486626224456.jpg",
+"resources//images//instances//uuid6e023956-2cbc-4473-86e2-a9f8f94dc068//1486626264424.jpg",
+"resources//images//instances//uuid6e023956-2cbc-4473-86e2-a9f8f94dc068//1486626289090.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 552,
+"areaID": "273",
+"dataValue": "29.7",
+"longitude": "77.9411575230",
+"latitude": "15.9675221352",
+"images": "resources//images//instances//uuid671d70b5-805d-45ca-b224-c2884399a7da//1488440109390.jpg,resources//images//instances//uuid671d70b5-805d-45ca-b224-c2884399a7da//1488440116864.jpg,resources//images//instances//uuid671d70b5-805d-45ca-b224-c2884399a7da//1486619781793.jpg,resources//images//instances//uuid671d70b5-805d-45ca-b224-c2884399a7da//1486619811710.jpg,resources//images//instances//uuid671d70b5-805d-45ca-b224-c2884399a7da//1486619858522.jpg,resources//images//instances//uuid671d70b5-805d-45ca-b224-c2884399a7da//1486619881486.jpg,resources//images//instances//uuid671d70b5-805d-45ca-b224-c2884399a7da//1486619899997.jpg,resources//images//instances//uuid671d70b5-805d-45ca-b224-c2884399a7da//1486619919080.jpg",
+"title": "Manopad",
+"showWindow": false,
+"icon": "resources/images/pushpins/phc-red.png",
+"dateOfVisit": "2017-03-02 13:06:04.0",
+"beforeImages": [
+"resources//images//instances//uuid671d70b5-805d-45ca-b224-c2884399a7da//1486619781793.jpg",
+"resources//images//instances//uuid671d70b5-805d-45ca-b224-c2884399a7da//1486619811710.jpg",
+"resources//images//instances//uuid671d70b5-805d-45ca-b224-c2884399a7da//1486619858522.jpg",
+"resources//images//instances//uuid671d70b5-805d-45ca-b224-c2884399a7da//1486619881486.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 553,
+"areaID": "817",
+"dataValue": "24.9",
+"longitude": "78.266124",
+"latitude": "16.371209",
+"images": "resources//images//instances//uuid8c94d809-e657-4836-9638-3e4b4badc022//1488443667152.jpg,resources//images//instances//uuid8c94d809-e657-4836-9638-3e4b4badc022//1488443680644.jpg,resources//images//instances//uuid8c94d809-e657-4836-9638-3e4b4badc022//1488444021596.jpg",
+"title": "Revally ",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-03-02 14:10:58.0",
+"beforeImages": [
+"resources//images//instances//uuid8c94d809-e657-4836-9638-3e4b4badc022//1488444021596.jpg",
+"resources/images/Imagenotavailable.png",
+"resources/images/Imagenotavailable.png",
+"resources/images/Imagenotavailable.png"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 554,
+"areaID": "411",
+"dataValue": "14.3",
+"longitude": "77.716922",
+"latitude": "16.987761",
+"images": "resources//images//instances//uuid661324f3-d08d-4b6f-a64b-02d4aae7f217//1488516405070.jpg,resources//images//instances//uuid661324f3-d08d-4b6f-a64b-02d4aae7f217//1488516445991.jpg,resources//images//instances//uuid661324f3-d08d-4b6f-a64b-02d4aae7f217//1486611950381.jpg,resources//images//instances//uuid661324f3-d08d-4b6f-a64b-02d4aae7f217//1486612169237.jpg,resources//images//instances//uuid661324f3-d08d-4b6f-a64b-02d4aae7f217//1486612065740.jpg,resources//images//instances//uuid661324f3-d08d-4b6f-a64b-02d4aae7f217//1486612147797.jpg,resources//images//instances//uuid661324f3-d08d-4b6f-a64b-02d4aae7f217//1486612179993.jpg",
+"title": "Kosgi",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-03-03 10:18:20.0",
+"beforeImages": [
+"resources//images//instances//uuid661324f3-d08d-4b6f-a64b-02d4aae7f217//1486611950381.jpg",
+"resources//images//instances//uuid661324f3-d08d-4b6f-a64b-02d4aae7f217//1486612169237.jpg",
+"resources//images//instances//uuid661324f3-d08d-4b6f-a64b-02d4aae7f217//1486612065740.jpg",
+"resources//images//instances//uuid661324f3-d08d-4b6f-a64b-02d4aae7f217//1486612147797.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 555,
+"areaID": "402",
+"dataValue": "16.5",
+"longitude": "77.69385",
+"latitude": "16.6408",
+"images": "resources//images//instances//uuid2305df75-f6f9-400f-8d12-6d4f9fc90f7c//1488516986489.jpg,resources//images//instances//uuid2305df75-f6f9-400f-8d12-6d4f9fc90f7c//1488516994794.jpg,resources//images//instances//uuid2305df75-f6f9-400f-8d12-6d4f9fc90f7c//1488517174576.jpg,resources//images//instances//uuid2305df75-f6f9-400f-8d12-6d4f9fc90f7c//1488517293614.jpg,resources//images//instances//uuid2305df75-f6f9-400f-8d12-6d4f9fc90f7c//1488517338138.jpg",
+"title": "Dhanwada",
+"showWindow": false,
+"icon": "resources/images/pushpins/phc-red.png",
+"dateOfVisit": "2017-03-03 10:32:35.0",
+"beforeImages": [
+"resources//images//instances//uuid2305df75-f6f9-400f-8d12-6d4f9fc90f7c//1488517174576.jpg",
+"resources/images/Imagenotavailable.png",
+"resources//images//instances//uuid2305df75-f6f9-400f-8d12-6d4f9fc90f7c//1488517293614.jpg",
+"resources//images//instances//uuid2305df75-f6f9-400f-8d12-6d4f9fc90f7c//1488517338138.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 557,
+"areaID": "356",
+"dataValue": "29.5",
+"longitude": "79.8646835",
+"latitude": "19.3463024",
+"images": "resources//images//instances//uuiddf963816-b00b-4471-8d9f-72a0a90a2042//1488453696742.jpg,resources//images//instances//uuiddf963816-b00b-4471-8d9f-72a0a90a2042//1488453730211.jpg,resources//images//instances//uuiddf963816-b00b-4471-8d9f-72a0a90a2042//1488453817278.jpg,resources//images//instances//uuiddf963816-b00b-4471-8d9f-72a0a90a2042//1488453848460.jpg,resources//images//instances//uuiddf963816-b00b-4471-8d9f-72a0a90a2042//1488453870421.jpg",
+"title": "Bejjur",
+"showWindow": false,
+"icon": "resources/images/pushpins/24x7-red.png",
+"dateOfVisit": "2017-03-09 16:33:24.0",
+"beforeImages": [
+"resources//images//instances//uuiddf963816-b00b-4471-8d9f-72a0a90a2042//1488453817278.jpg",
+"resources//images//instances//uuiddf963816-b00b-4471-8d9f-72a0a90a2042//1488453848460.jpg",
+"resources//images//instances//uuiddf963816-b00b-4471-8d9f-72a0a90a2042//1488453870421.jpg",
+"resources/images/Imagenotavailable.png"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 558,
+"areaID": "361",
+"dataValue": "30.6",
+"longitude": "79.0517936",
+"latitude": "19.4428307",
+"images": "resources//images//instances//uuidb15aee2d-0386-442e-aaa3-5dcf84c5f8e2//1488368364765.jpg,resources//images//instances//uuidb15aee2d-0386-442e-aaa3-5dcf84c5f8e2//1488368396548.jpg,resources//images//instances//uuidb15aee2d-0386-442e-aaa3-5dcf84c5f8e2//1488370627637.jpg,resources//images//instances//uuidb15aee2d-0386-442e-aaa3-5dcf84c5f8e2//1488370607345.jpg,resources//images//instances//uuidb15aee2d-0386-442e-aaa3-5dcf84c5f8e2//1488368479943.jpg,resources//images//instances//uuidb15aee2d-0386-442e-aaa3-5dcf84c5f8e2//1488370646675.jpg",
+"title": "Keramari",
+"showWindow": false,
+"icon": "resources/images/pushpins/24x7-red.png",
+"dateOfVisit": "2017-03-09 16:33:32.0",
+"beforeImages": [
+"resources//images//instances//uuidb15aee2d-0386-442e-aaa3-5dcf84c5f8e2//1488370627637.jpg",
+"resources//images//instances//uuidb15aee2d-0386-442e-aaa3-5dcf84c5f8e2//1488370607345.jpg",
+"resources//images//instances//uuidb15aee2d-0386-442e-aaa3-5dcf84c5f8e2//1488368479943.jpg",
+"resources//images//instances//uuidb15aee2d-0386-442e-aaa3-5dcf84c5f8e2//1488370646675.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 559,
+"areaID": "369",
+"dataValue": "41.9",
+"longitude": "79.5711655",
+"latitude": "19.4769446",
+"images": "resources//images//instances//uuidfdbb63f1-85de-42b4-a876-5f298b9ea10c//1488374218520.jpg,resources//images//instances//uuidfdbb63f1-85de-42b4-a876-5f298b9ea10c//1488374253289.jpg,resources//images//instances//uuidfdbb63f1-85de-42b4-a876-5f298b9ea10c//1488374585533.jpg,resources//images//instances//uuidfdbb63f1-85de-42b4-a876-5f298b9ea10c//1488374599740.jpg,resources//images//instances//uuidfdbb63f1-85de-42b4-a876-5f298b9ea10c//1488374618801.jpg,resources//images//instances//uuidfdbb63f1-85de-42b4-a876-5f298b9ea10c//1488374641059.jpg",
+"title": "Sirpur (T)",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-03-09 16:33:38.0",
+"beforeImages": [
+"resources//images//instances//uuidfdbb63f1-85de-42b4-a876-5f298b9ea10c//1488374585533.jpg",
+"resources//images//instances//uuidfdbb63f1-85de-42b4-a876-5f298b9ea10c//1488374599740.jpg",
+"resources//images//instances//uuidfdbb63f1-85de-42b4-a876-5f298b9ea10c//1488374618801.jpg",
+"resources//images//instances//uuidfdbb63f1-85de-42b4-a876-5f298b9ea10c//1488374641059.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 560,
+"areaID": "574",
+"dataValue": "31.0",
+"longitude": "77.8381576",
+"latitude": "19.0084297",
+"images": "resources//images//instances//uuidb441b780-438d-46f1-8d7d-3e4c95d894ed//1488455576637.jpg,resources//images//instances//uuidb441b780-438d-46f1-8d7d-3e4c95d894ed//1488455633624.jpg,resources//images//instances//uuidb441b780-438d-46f1-8d7d-3e4c95d894ed//1488455687311.jpg,resources//images//instances//uuidb441b780-438d-46f1-8d7d-3e4c95d894ed//1488455749762.jpg,resources//images//instances//uuidb441b780-438d-46f1-8d7d-3e4c95d894ed//1488455765191.jpg",
+"title": "Tanoor",
+"showWindow": false,
+"icon": "resources/images/pushpins/24x7-red.png",
+"dateOfVisit": "2017-03-09 16:33:42.0",
+"beforeImages": [
+"resources//images//instances//uuidb441b780-438d-46f1-8d7d-3e4c95d894ed//1488455687311.jpg",
+"resources/images/Imagenotavailable.png",
+"resources//images//instances//uuidb441b780-438d-46f1-8d7d-3e4c95d894ed//1488455749762.jpg",
+"resources//images//instances//uuidb441b780-438d-46f1-8d7d-3e4c95d894ed//1488455765191.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 561,
+"areaID": "362",
+"dataValue": "28.7",
+"longitude": "79.4823339",
+"latitude": "19.3581456",
+"images": "resources//images//instances//uuidebf6f439-30d0-4e55-be38-c4f557c49500//1488459531517.jpg,resources//images//instances//uuidebf6f439-30d0-4e55-be38-c4f557c49500//1488459552687.jpg,resources//images//instances//uuidebf6f439-30d0-4e55-be38-c4f557c49500//1488459605492.jpg,resources//images//instances//uuidebf6f439-30d0-4e55-be38-c4f557c49500//1488459671223.jpg,resources//images//instances//uuidebf6f439-30d0-4e55-be38-c4f557c49500//1488459653817.jpg,resources//images//instances//uuidebf6f439-30d0-4e55-be38-c4f557c49500//1488459686573.jpg",
+"title": "Khagaznagar",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-03-09 16:33:48.0",
+"beforeImages": [
+"resources//images//instances//uuidebf6f439-30d0-4e55-be38-c4f557c49500//1488459605492.jpg",
+"resources//images//instances//uuidebf6f439-30d0-4e55-be38-c4f557c49500//1488459671223.jpg",
+"resources//images//instances//uuidebf6f439-30d0-4e55-be38-c4f557c49500//1488459653817.jpg",
+"resources//images//instances//uuidebf6f439-30d0-4e55-be38-c4f557c49500//1488459686573.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 562,
+"areaID": "37",
+"dataValue": "19.0",
+"longitude": "78.7733937800",
+"latitude": "19.7183811000",
+"images": "resources//images//instances//uuid7db82ad6-91da-47b2-b29f-ade92df7fc7d//1486625644627.jpg,resources//images//instances//uuid7db82ad6-91da-47b2-b29f-ade92df7fc7d//1486625595873.jpg,resources//images//instances//uuid7db82ad6-91da-47b2-b29f-ade92df7fc7d//1486625535388.jpg,resources//images//instances//uuid7db82ad6-91da-47b2-b29f-ade92df7fc7d//1486625571616.jpg,resources//images//instances//uuid7db82ad6-91da-47b2-b29f-ade92df7fc7d//1486625437246.jpg,resources//images//instances//uuid7db82ad6-91da-47b2-b29f-ade92df7fc7d//1486625712085.jpg",
+"title": "Bela",
+"showWindow": false,
+"icon": "resources/images/pushpins/phc-red.png",
+"dateOfVisit": "2017-03-09 22:14:04.0",
+"beforeImages": [
+"resources//images//instances//uuid7db82ad6-91da-47b2-b29f-ade92df7fc7d//1486625644627.jpg",
+"resources//images//instances//uuid7db82ad6-91da-47b2-b29f-ade92df7fc7d//1486625595873.jpg",
+"resources//images//instances//uuid7db82ad6-91da-47b2-b29f-ade92df7fc7d//1486625535388.jpg",
+"resources//images//instances//uuid7db82ad6-91da-47b2-b29f-ade92df7fc7d//1486625571616.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 563,
+"areaID": "283",
+"dataValue": "41.0",
+"longitude": "78.1175806",
+"latitude": "18.3937103",
+"images": "resources//images//instances//uuid33e55808-eadf-423c-a04a-6f33b9758c47//image-12_17_33.jpg,resources//images//instances//uuid33e55808-eadf-423c-a04a-6f33b9758c47//image-12_18_29.jpg,resources//images//instances//uuid33e55808-eadf-423c-a04a-6f33b9758c47//IMG_5971-16_12_31.JPG,resources//images//instances//uuid33e55808-eadf-423c-a04a-6f33b9758c47//IMG_5962-16_17_47.JPG,resources//images//instances//uuid33e55808-eadf-423c-a04a-6f33b9758c47//IMG_5963-16_13_40.JPG,resources//images//instances//uuid33e55808-eadf-423c-a04a-6f33b9758c47//IMG_5964-16_13_59.JPG,resources//images//instances//uuid33e55808-eadf-423c-a04a-6f33b9758c47//IMG_5971-16_18_46.JPG,resources//images//instances//uuid33e55808-eadf-423c-a04a-6f33b9758c47//IMG_5975-16_19_15.JPG",
+"title": "Gandhari",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-03-10 12:22:49.0",
+"beforeImages": [
+"resources//images//instances//uuid33e55808-eadf-423c-a04a-6f33b9758c47//IMG_5971-16_12_31.JPG",
+"resources//images//instances//uuid33e55808-eadf-423c-a04a-6f33b9758c47//IMG_5962-16_17_47.JPG",
+"resources//images//instances//uuid33e55808-eadf-423c-a04a-6f33b9758c47//IMG_5963-16_13_40.JPG",
+"resources//images//instances//uuid33e55808-eadf-423c-a04a-6f33b9758c47//IMG_5964-16_13_59.JPG"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 564,
+"areaID": "363",
+"dataValue": "26.0",
+"longitude": "79.7301725",
+"latitude": "19.5209643",
+"images": "resources//images//instances//uuid5f05abff-f73b-434c-9c83-4e5c3f88cea9//1489134017519.jpg,resources//images//instances//uuid5f05abff-f73b-434c-9c83-4e5c3f88cea9//1489132979155.jpg,resources//images//instances//uuid5f05abff-f73b-434c-9c83-4e5c3f88cea9//1489133011832.jpg,resources//images//instances//uuid5f05abff-f73b-434c-9c83-4e5c3f88cea9//1489133023993.jpg,resources//images//instances//uuid5f05abff-f73b-434c-9c83-4e5c3f88cea9//1489133054119.jpg,resources//images//instances//uuid5f05abff-f73b-434c-9c83-4e5c3f88cea9//1489133079024.jpg",
+"title": "Kowtalam",
+"showWindow": false,
+"icon": "resources/images/pushpins/24x7-red.png",
+"dateOfVisit": "2017-03-10 13:52:58.0",
+"beforeImages": [
+"resources//images//instances//uuid5f05abff-f73b-434c-9c83-4e5c3f88cea9//1489133011832.jpg",
+"resources//images//instances//uuid5f05abff-f73b-434c-9c83-4e5c3f88cea9//1489133023993.jpg",
+"resources//images//instances//uuid5f05abff-f73b-434c-9c83-4e5c3f88cea9//1489133054119.jpg",
+"resources//images//instances//uuid5f05abff-f73b-434c-9c83-4e5c3f88cea9//1489133079024.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 565,
+"areaID": "286",
+"dataValue": "25.9",
+"longitude": "78.130787",
+"latitude": "18.2432233",
+"images": "resources//images//instances//uuid75afc3f7-bfd7-4dd3-815d-d831e72c18a2//image-16_15_36.jpg,resources//images//instances//uuid75afc3f7-bfd7-4dd3-815d-d831e72c18a2//image-16_16_12.jpg,resources//images//instances//uuid75afc3f7-bfd7-4dd3-815d-d831e72c18a2//IMG_5975-16_17_55.JPG,resources//images//instances//uuid75afc3f7-bfd7-4dd3-815d-d831e72c18a2//IMG_5976-16_18_27.JPG,resources//images//instances//uuid75afc3f7-bfd7-4dd3-815d-d831e72c18a2//IMG_5980-16_19_31.JPG",
+"title": "Lingampet",
+"showWindow": false,
+"icon": "resources/images/pushpins/24x7-red.png",
+"dateOfVisit": "2017-03-10 16:26:32.0",
+"beforeImages": [
+"resources//images//instances//uuid75afc3f7-bfd7-4dd3-815d-d831e72c18a2//IMG_5975-16_17_55.JPG",
+"resources//images//instances//uuid75afc3f7-bfd7-4dd3-815d-d831e72c18a2//IMG_5976-16_18_27.JPG",
+"resources/images/Imagenotavailable.png",
+"resources//images//instances//uuid75afc3f7-bfd7-4dd3-815d-d831e72c18a2//IMG_5980-16_19_31.JPG"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 568,
+"areaID": "490",
+"dataValue": "27.9",
+"longitude": "78.31917",
+"latitude": "16.10603",
+"images": "resources//images//instances//uuidb3ff3824-080e-4d02-ae72-80fe8d215340//1489564975340.jpg,resources//images//instances//uuidb3ff3824-080e-4d02-ae72-80fe8d215340//1489564832956.jpg",
+"title": "Kollapur",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-03-15 13:33:23.0",
+"beforeImages": [
+"resources//images//instances//uuidb3ff3824-080e-4d02-ae72-80fe8d215340//1489564832956.jpg",
+"resources/images/Imagenotavailable.png",
+"resources/images/Imagenotavailable.png",
+"resources/images/Imagenotavailable.png"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 569,
+"areaID": "396",
+"dataValue": "45.8",
+"longitude": "78.13934",
+"latitude": "16.762559",
+"images": "resources//images//instances//uuid43109a45-9557-429c-b212-cb3f5aedee1f//1486453623649.jpg",
+"title": "Badepally",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-03-17 04:02:49.0",
+"beforeImages": [
+"resources//images//instances//uuid43109a45-9557-429c-b212-cb3f5aedee1f//1486453623649.jpg",
+"resources/images/Imagenotavailable.png",
+"resources/images/Imagenotavailable.png",
+"resources/images/Imagenotavailable.png"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 570,
+"areaID": "812",
+"dataValue": "33.6",
+"longitude": "77.9416854221",
+"latitude": "16.3747305594",
+"images": "resources//images//instances//uuid395fa627-5abd-4bc5-86ff-2584ae1fcb1b//1486529126509.jpg,resources//images//instances//uuid395fa627-5abd-4bc5-86ff-2584ae1fcb1b//1486529171963.jpg,resources//images//instances//uuid395fa627-5abd-4bc5-86ff-2584ae1fcb1b//1486529218250.jpg,resources//images//instances//uuid395fa627-5abd-4bc5-86ff-2584ae1fcb1b//1486529242586.jpg,resources//images//instances//uuid395fa627-5abd-4bc5-86ff-2584ae1fcb1b//1486529251928.jpg",
+"title": "Kothakota",
+"showWindow": false,
+"icon": "resources/images/pushpins/phc-red.png",
+"dateOfVisit": "2017-03-17 04:02:57.0",
+"beforeImages": [
+"resources//images//instances//uuid395fa627-5abd-4bc5-86ff-2584ae1fcb1b//1486529171963.jpg",
+"resources/images/Imagenotavailable.png",
+"resources//images//instances//uuid395fa627-5abd-4bc5-86ff-2584ae1fcb1b//1486529218250.jpg",
+"resources/images/Imagenotavailable.png"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 571,
+"areaID": "807",
+"dataValue": "28.4",
+"longitude": "78.1429925835",
+"latitude": "16.3925594883",
+"images": "resources//images//instances//uuide9f43197-08d1-40b9-b2d8-886b3a870d2f//1486537801482.jpg,resources//images//instances//uuide9f43197-08d1-40b9-b2d8-886b3a870d2f//1486537807801.jpg,resources//images//instances//uuide9f43197-08d1-40b9-b2d8-886b3a870d2f//1486537817247.jpg,resources//images//instances//uuide9f43197-08d1-40b9-b2d8-886b3a870d2f//1486537836496.jpg,resources//images//instances//uuide9f43197-08d1-40b9-b2d8-886b3a870d2f//1486537843794.jpg",
+"title": "Gopalpet",
+"showWindow": false,
+"icon": "resources/images/pushpins/phc-red.png",
+"dateOfVisit": "2017-03-17 04:03:11.0",
+"beforeImages": [
+"resources//images//instances//uuide9f43197-08d1-40b9-b2d8-886b3a870d2f//1486537801482.jpg",
+"resources//images//instances//uuide9f43197-08d1-40b9-b2d8-886b3a870d2f//1486537807801.jpg",
+"resources//images//instances//uuide9f43197-08d1-40b9-b2d8-886b3a870d2f//1486537817247.jpg",
+"resources//images//instances//uuide9f43197-08d1-40b9-b2d8-886b3a870d2f//1486537836496.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 572,
+"areaID": "856",
+"dataValue": "31.5",
+"longitude": "79.0931750000",
+"latitude": "17.2863850000",
+"images": "resources//images//instances//uuid5ba8b3d7-c267-46aa-b56c-31a487f737cd//1489690544282.jpg,resources//images//instances//uuid5ba8b3d7-c267-46aa-b56c-31a487f737cd//1489690564365.jpg,resources//images//instances//uuid5ba8b3d7-c267-46aa-b56c-31a487f737cd//1489644156635.jpg,resources//images//instances//uuid5ba8b3d7-c267-46aa-b56c-31a487f737cd//1489644232125.jpg,resources//images//instances//uuid5ba8b3d7-c267-46aa-b56c-31a487f737cd//1489644318445.jpg,resources//images//instances//uuid5ba8b3d7-c267-46aa-b56c-31a487f737cd//1489644346222.jpg,resources//images//instances//uuid5ba8b3d7-c267-46aa-b56c-31a487f737cd//1489644361871.jpg",
+"title": " Ramannapet",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-03-18 10:08:53.0",
+"beforeImages": [
+"resources/images/Imagenotavailable.png",
+"resources/images/Imagenotavailable.png",
+"resources/images/Imagenotavailable.png",
+"resources/images/Imagenotavailable.png"
+],
+"afterImages": [
+"resources//images//instances//uuid5ba8b3d7-c267-46aa-b56c-31a487f737cd//1489644156635.jpg",
+"resources//images//instances//uuid5ba8b3d7-c267-46aa-b56c-31a487f737cd//1489644232125.jpg",
+"resources//images//instances//uuid5ba8b3d7-c267-46aa-b56c-31a487f737cd//1489644318445.jpg",
+"resources//images//instances//uuid5ba8b3d7-c267-46aa-b56c-31a487f737cd//1489644346222.jpg"
+]
+},
+{
+"id": 573,
+"areaID": "854",
+"dataValue": "27.8",
+"longitude": "79.0599883333",
+"latitude": "17.6484916667",
+"images": "resources//images//instances//uuid53879f0c-3c8b-4fd0-a00e-3737db087043//1489661474484.jpg,resources//images//instances//uuid53879f0c-3c8b-4fd0-a00e-3737db087043//1489661392105.jpg,resources//images//instances//uuid53879f0c-3c8b-4fd0-a00e-3737db087043//1489660722591.jpg,resources//images//instances//uuid53879f0c-3c8b-4fd0-a00e-3737db087043//1489661357409.jpg,resources//images//instances//uuid53879f0c-3c8b-4fd0-a00e-3737db087043//1489661284469.jpg,resources//images//instances//uuid53879f0c-3c8b-4fd0-a00e-3737db087043//1489661311234.jpg",
+"title": " Alair",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-03-18 10:09:19.0",
+"beforeImages": [
+"resources//images//instances//uuid53879f0c-3c8b-4fd0-a00e-3737db087043//1489660722591.jpg",
+"resources//images//instances//uuid53879f0c-3c8b-4fd0-a00e-3737db087043//1489661357409.jpg",
+"resources/images/Imagenotavailable.png",
+"resources/images/Imagenotavailable.png"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 574,
+"areaID": "861",
+"dataValue": "19.5",
+"longitude": "78.7940033333",
+"latitude": "17.4698866667",
+"images": "resources//images//instances//uuidb7cc232d-37e2-44dc-a8b3-4b83fc19e156//1489690816511.jpg,resources//images//instances//uuidb7cc232d-37e2-44dc-a8b3-4b83fc19e156//1489667907799.jpg,resources//images//instances//uuidb7cc232d-37e2-44dc-a8b3-4b83fc19e156//1489691167207.jpg,resources//images//instances//uuidb7cc232d-37e2-44dc-a8b3-4b83fc19e156//1489691180470.jpg",
+"title": "Bibinagar",
+"showWindow": false,
+"icon": "resources/images/pushpins/24x7-red.png",
+"dateOfVisit": "2017-03-18 10:09:41.0",
+"beforeImages": [
+"resources//images//instances//uuidb7cc232d-37e2-44dc-a8b3-4b83fc19e156//1489667907799.jpg",
+"resources//images//instances//uuidb7cc232d-37e2-44dc-a8b3-4b83fc19e156//1489691167207.jpg",
+"resources//images//instances//uuidb7cc232d-37e2-44dc-a8b3-4b83fc19e156//1489691180470.jpg",
+"resources/images/Imagenotavailable.png"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 575,
+"areaID": "868",
+"dataValue": "19.8",
+"longitude": "78.8151166667",
+"latitude": "17.3414666667",
+"images": "resources//images//instances//uuid15180828-0fca-44b0-8876-a86e3a1fb98a//1489673426395.jpg,resources//images//instances//uuid15180828-0fca-44b0-8876-a86e3a1fb98a//1489673454609.jpg,resources//images//instances//uuid15180828-0fca-44b0-8876-a86e3a1fb98a//1489673527570.jpg,resources//images//instances//uuid15180828-0fca-44b0-8876-a86e3a1fb98a//1489691371431.jpg,resources//images//instances//uuid15180828-0fca-44b0-8876-a86e3a1fb98a//1489691379754.jpg",
+"title": "Pochampally",
+"showWindow": false,
+"icon": "resources/images/pushpins/24x7-red.png",
+"dateOfVisit": "2017-03-18 10:09:59.0",
+"beforeImages": [
+"resources//images//instances//uuid15180828-0fca-44b0-8876-a86e3a1fb98a//1489673527570.jpg",
+"resources//images//instances//uuid15180828-0fca-44b0-8876-a86e3a1fb98a//1489691371431.jpg",
+"resources//images//instances//uuid15180828-0fca-44b0-8876-a86e3a1fb98a//1489691379754.jpg",
+"resources/images/Imagenotavailable.png"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 576,
+"areaID": "526",
+"dataValue": "28.9",
+"longitude": "79.3116333333",
+"latitude": "16.7808566667",
+"images": "resources//images//instances//uuidc9529b11-9cad-4cba-b51e-1d5ddd13acb6//1489737008327.jpg,resources//images//instances//uuidc9529b11-9cad-4cba-b51e-1d5ddd13acb6//1489736964187.jpg,resources//images//instances//uuidc9529b11-9cad-4cba-b51e-1d5ddd13acb6//1489732762825.jpg,resources//images//instances//uuidc9529b11-9cad-4cba-b51e-1d5ddd13acb6//1489732788465.jpg,resources//images//instances//uuidc9529b11-9cad-4cba-b51e-1d5ddd13acb6//1489732818817.jpg,resources//images//instances//uuidc9529b11-9cad-4cba-b51e-1d5ddd13acb6//1489734806838.jpg,resources//images//instances//uuidc9529b11-9cad-4cba-b51e-1d5ddd13acb6//1489734825599.jpg,resources//images//instances//uuidc9529b11-9cad-4cba-b51e-1d5ddd13acb6//1489734862421.jpg",
+"title": "Haliya",
+"showWindow": false,
+"icon": "resources/images/pushpins/24x7-red.png",
+"dateOfVisit": "2017-03-18 10:10:53.0",
+"beforeImages": [
+"resources//images//instances//uuidc9529b11-9cad-4cba-b51e-1d5ddd13acb6//1489732762825.jpg",
+"resources//images//instances//uuidc9529b11-9cad-4cba-b51e-1d5ddd13acb6//1489732788465.jpg",
+"resources//images//instances//uuidc9529b11-9cad-4cba-b51e-1d5ddd13acb6//1489732818817.jpg",
+"resources//images//instances//uuidc9529b11-9cad-4cba-b51e-1d5ddd13acb6//1489734806838.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 577,
+"areaID": "487",
+"dataValue": "27.8",
+"longitude": "78.2048",
+"latitude": "16.53371",
+"images": "resources//images//instances//uuida46097cb-7378-44bd-90d3-878a1985313f//1487661354749.jpg,resources//images//instances//uuida46097cb-7378-44bd-90d3-878a1985313f//1487695834072.jpg,resources//images//instances//uuida46097cb-7378-44bd-90d3-878a1985313f//1487695897498.jpg,resources//images//instances//uuida46097cb-7378-44bd-90d3-878a1985313f//1487695931989.jpg,resources//images//instances//uuida46097cb-7378-44bd-90d3-878a1985313f//1487695947176.jpg,resources//images//instances//uuida46097cb-7378-44bd-90d3-878a1985313f//1487695962861.jpg,resources//images//instances//uuida46097cb-7378-44bd-90d3-878a1985313f//1487695981616.jpg,resources//images//instances//uuida46097cb-7378-44bd-90d3-878a1985313f//1487695996398.jpg",
+"title": "Bijinepally",
+"showWindow": false,
+"icon": "resources/images/pushpins/24x7-red.png",
+"dateOfVisit": "2017-03-18 10:43:49.0",
+"beforeImages": [
+"resources//images//instances//uuida46097cb-7378-44bd-90d3-878a1985313f//1487695897498.jpg",
+"resources//images//instances//uuida46097cb-7378-44bd-90d3-878a1985313f//1487695931989.jpg",
+"resources//images//instances//uuida46097cb-7378-44bd-90d3-878a1985313f//1487695947176.jpg",
+"resources//images//instances//uuida46097cb-7378-44bd-90d3-878a1985313f//1487695962861.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 578,
+"areaID": "877",
+"dataValue": "74.2",
+"longitude": "79.129845",
+"latitude": "18.442705",
+"images": "resources//images//instances//uuid16788797-e4fd-4879-8e35-22805ec8902f//1490072022562.jpg,resources//images//instances//uuid16788797-e4fd-4879-8e35-22805ec8902f//1490072059426.jpg,resources//images//instances//uuid16788797-e4fd-4879-8e35-22805ec8902f//1490072069008.jpg",
+"title": "MCH karimnagar",
+"showWindow": false,
+"icon": "resources/images/pushpins/mhc-orange.png",
+"dateOfVisit": "2017-03-21 10:25:49.0",
+"beforeImages": [
+"resources//images//instances//uuid16788797-e4fd-4879-8e35-22805ec8902f//1490072022562.jpg",
+"resources//images//instances//uuid16788797-e4fd-4879-8e35-22805ec8902f//1490072059426.jpg",
+"resources//images//instances//uuid16788797-e4fd-4879-8e35-22805ec8902f//1490072069008.jpg",
+"resources/images/Imagenotavailable.png"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 579,
+"areaID": "345",
+"dataValue": "22.8",
+"longitude": "80.66321",
+"latitude": "17.212058",
+"images": "resources//images//instances//uuide471d688-6125-4b80-9bc5-1a19d6a47b8a//1490171801476.jpg,resources//images//instances//uuide471d688-6125-4b80-9bc5-1a19d6a47b8a//1490171833927.jpg,resources//images//instances//uuide471d688-6125-4b80-9bc5-1a19d6a47b8a//1490171952652.jpg,resources//images//instances//uuide471d688-6125-4b80-9bc5-1a19d6a47b8a//1490171979569.jpg,resources//images//instances//uuide471d688-6125-4b80-9bc5-1a19d6a47b8a//1490172098160.jpg,resources//images//instances//uuide471d688-6125-4b80-9bc5-1a19d6a47b8a//1490172286163.jpg,resources//images//instances//uuide471d688-6125-4b80-9bc5-1a19d6a47b8a//1490172142082.jpg,resources//images//instances//uuide471d688-6125-4b80-9bc5-1a19d6a47b8a//1490172188652.jpg",
+"title": "Penuballi",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-03-22 16:30:03.0",
+"beforeImages": [
+"resources//images//instances//uuide471d688-6125-4b80-9bc5-1a19d6a47b8a//1490171952652.jpg",
+"resources//images//instances//uuide471d688-6125-4b80-9bc5-1a19d6a47b8a//1490171979569.jpg",
+"resources//images//instances//uuide471d688-6125-4b80-9bc5-1a19d6a47b8a//1490172098160.jpg",
+"resources//images//instances//uuide471d688-6125-4b80-9bc5-1a19d6a47b8a//1490172286163.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 580,
+"areaID": "343",
+"dataValue": "45.6",
+"longitude": "80.050698",
+"latitude": "17.1009",
+"images": "resources//images//instances//uuid6e9f5324-2d6b-4aa9-95df-c4be4ab647ba//1490185801705.jpg,resources//images//instances//uuid6e9f5324-2d6b-4aa9-95df-c4be4ab647ba//1490186143149.jpg,resources//images//instances//uuid6e9f5324-2d6b-4aa9-95df-c4be4ab647ba//1490186271641.jpg,resources//images//instances//uuid6e9f5324-2d6b-4aa9-95df-c4be4ab647ba//1490186333576.jpg,resources//images//instances//uuid6e9f5324-2d6b-4aa9-95df-c4be4ab647ba//1490186438635.jpg,resources//images//instances//uuid6e9f5324-2d6b-4aa9-95df-c4be4ab647ba//1490186500588.jpg",
+"title": "Nelakondapally ",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-03-22 18:57:28.0",
+"beforeImages": [
+"resources//images//instances//uuid6e9f5324-2d6b-4aa9-95df-c4be4ab647ba//1490186271641.jpg",
+"resources//images//instances//uuid6e9f5324-2d6b-4aa9-95df-c4be4ab647ba//1490186333576.jpg",
+"resources//images//instances//uuid6e9f5324-2d6b-4aa9-95df-c4be4ab647ba//1490186438635.jpg",
+"resources//images//instances//uuid6e9f5324-2d6b-4aa9-95df-c4be4ab647ba//1490186500588.jpg"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 581,
+"areaID": "788",
+"dataValue": "46.6",
+"longitude": "77.766665",
+"latitude": "17.54033",
+"images": "resources//images//instances//uuid1a4f98ff-0bcc-4b60-9be7-af8b895183ad//image-19_13_18.jpg,resources//images//instances//uuid1a4f98ff-0bcc-4b60-9be7-af8b895183ad//IMG_6005-19_14_22.JPG,resources//images//instances//uuid1a4f98ff-0bcc-4b60-9be7-af8b895183ad//IMG_6014-19_14_56.JPG,resources//images//instances//uuid1a4f98ff-0bcc-4b60-9be7-af8b895183ad//IMG_6004-19_15_34.JPG",
+"title": "Marpally",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-03-27 12:09:43.0",
+"beforeImages": [
+"resources//images//instances//uuid1a4f98ff-0bcc-4b60-9be7-af8b895183ad//IMG_6005-19_14_22.JPG",
+"resources//images//instances//uuid1a4f98ff-0bcc-4b60-9be7-af8b895183ad//IMG_6014-19_14_56.JPG",
+"resources//images//instances//uuid1a4f98ff-0bcc-4b60-9be7-af8b895183ad//IMG_6004-19_15_34.JPG",
+"resources/images/Imagenotavailable.png"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 583,
+"areaID": "467",
+"dataValue": "43.6",
+"longitude": "78.68299842",
+"latitude": "17.4502323",
+"images": "resources//images//instances//uuid9e841e54-1aa3-423b-92b2-d41cc0e03965//image-13_2_35.jpg,resources//images//instances//uuid9e841e54-1aa3-423b-92b2-d41cc0e03965//image-13_0_46.jpg,resources//images//instances//uuid9e841e54-1aa3-423b-92b2-d41cc0e03965//IMG_5819-12_59_15.JPG,resources//images//instances//uuid9e841e54-1aa3-423b-92b2-d41cc0e03965//IMG_5820-12_59_24.JPG",
+"title": "Ghatkesar",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-03-27 12:36:49.0",
+"beforeImages": [
+"resources//images//instances//uuid9e841e54-1aa3-423b-92b2-d41cc0e03965//image-13_2_35.jpg",
+"resources//images//instances//uuid9e841e54-1aa3-423b-92b2-d41cc0e03965//image-13_0_46.jpg",
+"resources//images//instances//uuid9e841e54-1aa3-423b-92b2-d41cc0e03965//IMG_5819-12_59_15.JPG",
+"resources//images//instances//uuid9e841e54-1aa3-423b-92b2-d41cc0e03965//IMG_5820-12_59_24.JPG"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+},
+{
+"id": 584,
+"areaID": "536",
+"dataValue": "24.6",
+"longitude": "79.4271379",
+"latitude": "17.164901",
+"images": "resources//images//instances//uuid27cbb9d4-d397-4ce6-a47d-827c06fdd1ed//nakrekal map-16_13_8.JPG,resources//images//instances//uuid27cbb9d4-d397-4ce6-a47d-827c06fdd1ed//nakrekal map-16_13_25.JPG,resources//images//instances//uuid27cbb9d4-d397-4ce6-a47d-827c06fdd1ed//IMG_7143-16_22_26.JPG,resources//images//instances//uuid27cbb9d4-d397-4ce6-a47d-827c06fdd1ed//IMG_7144-16_22_50.JPG,resources//images//instances//uuid27cbb9d4-d397-4ce6-a47d-827c06fdd1ed//IMG_7148-16_23_21.JPG,resources//images//instances//uuid27cbb9d4-d397-4ce6-a47d-827c06fdd1ed//IMG_7145-16_23_53.JPG,resources//images//instances//uuid27cbb9d4-d397-4ce6-a47d-827c06fdd1ed//IMG_7149-16_24_15.JPG",
+"title": "Nakrekal",
+"showWindow": false,
+"icon": "resources/images/pushpins/chc-red.png",
+"dateOfVisit": "2017-04-03 16:29:33.0",
+"beforeImages": [
+"resources//images//instances//uuid27cbb9d4-d397-4ce6-a47d-827c06fdd1ed//IMG_7143-16_22_26.JPG",
+"resources//images//instances//uuid27cbb9d4-d397-4ce6-a47d-827c06fdd1ed//IMG_7144-16_22_50.JPG",
+"resources//images//instances//uuid27cbb9d4-d397-4ce6-a47d-827c06fdd1ed//IMG_7148-16_23_21.JPG",
+"resources//images//instances//uuid27cbb9d4-d397-4ce6-a47d-827c06fdd1ed//IMG_7145-16_23_53.JPG"
+],
+"afterImages": [
+"resources/images/nodataavailable.png"
+]
+}
+]
